@@ -1148,7 +1148,7 @@
     "postedDate": "2023-01-30T00:00:00.000Z"
   },
   {
-    "_id": "63d8ff80445ff6b77e9e36ef",
+    "_id": "63da558d9f87c7069a1f72d5",
     "jobNumber": "20230108",
     "jobTitle": "Cybersecurity Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Cybersecurity Engineers capture, refine, and translate information systems security requirements for IT systems and component products.  They support the development of computer systems and/or the modification of computer applications and programs to integrate information system security protocols.  They monitor security controls, assess threats and vulnerabilities, mitigat...",
@@ -1177,7 +1177,7 @@
     "jobFamily": "Cyber"
   },
   {
-    "_id": "63d8ff80445ff6a5409e36fd",
+    "_id": "63da558d9f87c79d4e1f72e3",
     "jobNumber": "20230116",
     "jobTitle": "Visual Information Specialist (Graphic Designer)",
     "description": "ASSIGNMENT DESCRIPTION: Visual Information Specialists design, produce, and finish visual products. They apply broad knowledge of design principles to communicate concepts or ideas visually. They use visual communication software to generate hardcopy, softcopy, and web content, to include geospatial information products, publications, brochures, and web products....",
@@ -1206,7 +1206,7 @@
     "jobFamily": "Comm. and Public Affairs"
   },
   {
-    "_id": "63d8ff80445ff6394f9e370f",
+    "_id": "63da558d9f87c707c21f72f5",
     "jobNumber": "20230135",
     "jobTitle": "Geodetic Surveyor (Holloman AFB, NM)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Surveyors perform geodetic, geophysical, and handheld GEOINT surveys. They use, maintain, and troubleshoot survey equipment, and compute, adjust, and evaluate geodetic survey data. They provide technical expertise on geodetic and geophysical issues to customers and represent NGA in external community forums....",
@@ -2137,7 +2137,7 @@
     "postedDate": "2023-01-23T00:00:00.000Z"
   },
   {
-    "_id": "63d8ff80445ff655649e3701",
+    "_id": "63da558d9f87c7c6d51f72e7",
     "jobNumber": "20230119",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -2166,7 +2166,7 @@
     "jobFamily": "Bus., Accntng and Bdgt"
   },
   {
-    "_id": "63d8ff80445ff609019e3703",
+    "_id": "63da558d9f87c7d2f91f72e9",
     "jobNumber": "20230120",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -2195,7 +2195,7 @@
     "jobFamily": "Bus., Accntng and Bdgt"
   },
   {
-    "_id": "63d8ff80445ff61b209e3705",
+    "_id": "63da558d9f87c746f81f72eb",
     "jobNumber": "20230122",
     "jobTitle": "Product Manager",
     "description": "ASSIGNMENT DESCRIPTION: Product Managers coordinate the entire product development lifecycle process from conception and design to implementation and evaluation. They meet with customers to determine product needs and translate into detailed requirements. They define the product strategy and roadmap and manage the development and testing process through cross-functional teams. They communicate, ed...",
@@ -2224,7 +2224,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63d8ff80445ff67d4c9e3707",
+    "_id": "63da558d9f87c7ddbd1f72ed",
     "jobNumber": "20230123",
     "jobTitle": "Program Manager",
     "description": "ASSIGNMENT DESCRIPTION: Program Managers oversee the cost, schedule, and technical performance of acquisition, operations, and support activities, and are accountable for the overall success of the project or program. They collaborate with others to plan programs across their life cycle, lead program teams and activities, and monitor the acquisition process to ensure that work efforts achieve the ...",
@@ -2254,7 +2254,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63d8ff80445ff6d2d59e3709",
+    "_id": "63da558d9f87c78e451f72ef",
     "jobNumber": "20230124",
     "jobTitle": "Program Manager",
     "description": "ASSIGNMENT DESCRIPTION: Program Managers oversee the cost, schedule, and technical performance of acquisition, operations, and support activities, and are accountable for the overall success of the project or program. They collaborate with others to plan programs across their life cycle, lead program teams and activities, and monitor the acquisition process to ensure that work efforts achieve the ...",
@@ -2284,7 +2284,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63d8ff80445ff62d6a9e370b",
+    "_id": "63da558d9f87c752c61f72f1",
     "jobNumber": "20230125",
     "jobTitle": "Geodetic Orbit Scientist (Fort Belvoir, VA area)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Orbit Scientists monitor Global Navigation Satellite Systems, acquire and analyze satellite data, and produce accurate products for the National System for Geospatial-Intelligence (NSG). They develop, evaluate, and use algorithms and tools to provide integrity monitoring and determine precise ephemerides and other information. They analyze satellite ranging and tim...",
@@ -2314,7 +2314,7 @@
     "jobFamily": "Engineering and Physical Sci"
   },
   {
-    "_id": "63d8ff80445ff651189e370d",
+    "_id": "63da558d9f87c7fd991f72f3",
     "jobNumber": "20230126",
     "jobTitle": "Geodetic Orbit Scientist (Fort Belvoir, VA area)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Orbit Scientists monitor Global Navigation Satellite Systems, acquire and analyze satellite data, and produce accurate products for the National System for Geospatial-Intelligence (NSG). They develop, evaluate, and use algorithms and tools to provide integrity monitoring and determine precise ephemerides and other information. They analyze satellite ranging and tim...",
@@ -3983,7 +3983,7 @@
     "postedDate": "2023-01-09T00:00:00.000Z"
   },
   {
-    "_id": "63d8ff80445ff6639a9e36eb",
+    "_id": "63da558d9f87c75a211f72d1",
     "jobNumber": "20230105",
     "jobTitle": "Photogrammetrist",
     "description": "ASSIGNMENT DESCRIPTION: Photogrammetrists perform image assessment, point selection, mensuration, triangulation, orthorectification, dynamic range adjustments, and processing in order to produce image products. They increase the relative and absolute positioning accuracy of imagery from sensors to support mono and stereo exploitation. These analysts assess, evaluate, and extract elevation data fro...",
@@ -4014,7 +4014,7 @@
     "jobFamily": "Intelligence Analysis"
   },
   {
-    "_id": "63d8ff80445ff6dd3e9e36ed",
+    "_id": "63da558d9f87c7a1f71f72d3",
     "jobNumber": "20230106",
     "jobTitle": "Photogrammetrist",
     "description": "ASSIGNMENT DESCRIPTION: Photogrammetrists perform image assessment, point selection, mensuration, triangulation, orthorectification, dynamic range adjustments, and processing in order to produce image products. They increase the relative and absolute positioning accuracy of imagery from sensors to support mono and stereo exploitation. These analysts assess, evaluate, and extract elevation data fro...",
@@ -5274,7 +5274,7 @@
     "postedDate": "2022-12-08T00:00:00.000Z"
   },
   {
-    "_id": "63d8ff80445ff6274b9e366d",
+    "_id": "63da558d9f87c7b85f1f7253",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
