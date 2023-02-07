@@ -1,6 +1,6 @@
 [
   {
-    "_id": "63e0e86ae14be1c2bcc7cc2f",
+    "_id": "63e23eb11cf94af821be8464",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
@@ -31,7 +31,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63e0e86ae14be1e534c7cc31",
+    "_id": "63e23eb11cf94a1d5bbe8466",
     "jobNumber": "20230139",
     "jobTitle": "Inspector",
     "description": "ASSIGNMENT DESCRIPTION: Inspectors perform independent inspections, evaluations, and reviews of Agency policy, programs, and operations. They gather and analyze information, identify areas for improvement, draft findings and recommendations, and prepare reports and other products in accordance with Agency, NGA Office of Inspector General (OIG), Intelligence Community (IC), and Department of Defens...",
@@ -61,7 +61,7 @@
     "jobFamily": "Inspctn, Invstigtn, Enfrcmnt"
   },
   {
-    "_id": "63e0e86ae14be1e622c7cc33",
+    "_id": "63e23eb11cf94a0701be8468",
     "jobNumber": "20230140",
     "jobTitle": "Open Source Research Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Open-Source Research Analysts conduct geospatial open-source research projects for internal and external customers. They apply research strategies to conduct time-sensitive and in-depth research based on intelligence priorities and world events. They monitor, compile, and evaluate publicly available information (PAI) in support of GEOINT requirements. These analysts also id...",
@@ -92,7 +92,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63e0e86ae14be16c59c7cc35",
+    "_id": "63e23eb11cf94a4422be846a",
     "jobNumber": "20230141",
     "jobTitle": "Source Strategies Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Source Strategies Analysts collaborate with customers and source providers to develop comprehensive multi-intelligence (multi-INT), multi-source strategies to address intelligence problems. They create tasking and dissemination requirements; adjudicate requirements; analyze and investigate collection performance; assess and report on end-to-end GEOINT system performance dat...",
@@ -123,7 +123,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63e0e86ae14be184ddc7cc37",
+    "_id": "63e23eb11cf94a862bbe846c",
     "jobNumber": "20230142",
     "jobTitle": "Source Strategies Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Source Strategies Analysts collaborate with customers and source providers to develop comprehensive multi-intelligence (multi-INT), multi-source strategies to address intelligence problems. They create tasking and dissemination requirements; adjudicate requirements; analyze and investigate collection performance; assess and report on end-to-end GEOINT system performance dat...",
@@ -2285,7 +2285,7 @@
     "postedDate": "2023-01-30T00:00:00.000Z"
   },
   {
-    "_id": "63e0e86ae14be1abdbc7cc0d",
+    "_id": "63e23eb11cf94a8d19be8442",
     "jobNumber": "20230108",
     "jobTitle": "Cybersecurity Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Cybersecurity Engineers capture, refine, and translate information systems security requirements for IT systems and component products.  They support the development of computer systems and/or the modification of computer applications and programs to integrate information system security protocols.  They monitor security controls, assess threats and vulnerabilities, mitigat...",
@@ -2314,7 +2314,7 @@
     "jobFamily": "Cyber"
   },
   {
-    "_id": "63e0e86ae14be1d0e7c7cc1b",
+    "_id": "63e23eb11cf94a66e1be8450",
     "jobNumber": "20230116",
     "jobTitle": "Visual Information Specialist (Graphic Designer)",
     "description": "ASSIGNMENT DESCRIPTION: Visual Information Specialists design, produce, and finish visual products. They apply broad knowledge of design principles to communicate concepts or ideas visually. They use visual communication software to generate hardcopy, softcopy, and web content, to include geospatial information products, publications, brochures, and web products....",
@@ -2343,7 +2343,7 @@
     "jobFamily": "Comm. and Public Affairs"
   },
   {
-    "_id": "63e0e86ae14be101b9c7cc2d",
+    "_id": "63e23eb11cf94a0d7bbe8462",
     "jobNumber": "20230135",
     "jobTitle": "Geodetic Surveyor (Holloman AFB, NM)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Surveyors perform geodetic, geophysical, and handheld GEOINT surveys. They use, maintain, and troubleshoot survey equipment, and compute, adjust, and evaluate geodetic survey data. They provide technical expertise on geodetic and geophysical issues to customers and represent NGA in external community forums....",
@@ -3192,7 +3192,7 @@
     "postedDate": "2023-01-23T00:00:00.000Z"
   },
   {
-    "_id": "63e0e86ae14be182d1c7cc1f",
+    "_id": "63e23eb11cf94a26dbbe8454",
     "jobNumber": "20230119",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -3221,7 +3221,7 @@
     "jobFamily": "Bus., Accntng and Bdgt"
   },
   {
-    "_id": "63e0e86ae14be11decc7cc21",
+    "_id": "63e23eb11cf94a2d9dbe8456",
     "jobNumber": "20230120",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -3250,7 +3250,7 @@
     "jobFamily": "Bus., Accntng and Bdgt"
   },
   {
-    "_id": "63e0e86ae14be106c1c7cc29",
+    "_id": "63e23eb11cf94ae530be845e",
     "jobNumber": "20230125",
     "jobTitle": "Geodetic Orbit Scientist (Fort Belvoir, VA area)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Orbit Scientists monitor Global Navigation Satellite Systems, acquire and analyze satellite data, and produce accurate products for the National System for Geospatial-Intelligence (NSG). They develop, evaluate, and use algorithms and tools to provide integrity monitoring and determine precise ephemerides and other information. They analyze satellite ranging and tim...",
@@ -3280,7 +3280,7 @@
     "jobFamily": "Engineering and Physical Sci"
   },
   {
-    "_id": "63e0e86ae14be1f360c7cc2b",
+    "_id": "63e23eb11cf94a7118be8460",
     "jobNumber": "20230126",
     "jobTitle": "Geodetic Orbit Scientist (Fort Belvoir, VA area)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Orbit Scientists monitor Global Navigation Satellite Systems, acquire and analyze satellite data, and produce accurate products for the National System for Geospatial-Intelligence (NSG). They develop, evaluate, and use algorithms and tools to provide integrity monitoring and determine precise ephemerides and other information. They analyze satellite ranging and tim...",
@@ -6261,7 +6261,7 @@
     "postedDate": "2022-11-23T00:00:00.000Z"
   },
   {
-    "_id": "63e0e86ae14be105c6c7cb8b",
+    "_id": "63e23eb11cf94a01cebe83c0",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
