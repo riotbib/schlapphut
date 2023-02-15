@@ -246,7 +246,7 @@
     "postedDate": "2023-02-14T00:00:00.000Z"
   },
   {
-    "_id": "63eb74be53be37c115537d6a",
+    "_id": "63ecca919f9a942b6bb21e0c",
     "jobNumber": "20230158",
     "jobTitle": "Cybersecurity Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Cybersecurity Engineers capture, refine, and translate information systems security requirements for IT systems and component products.  They support the development of computer systems and/or the modification of computer applications and programs to integrate information system security protocols.  They monitor security controls, assess threats and vulnerabilities, mitigat...",
@@ -276,7 +276,7 @@
     "jobFamily": "Cyber"
   },
   {
-    "_id": "63eb74be53be37e465537d6c",
+    "_id": "63ecca919f9a943f81b21e0e",
     "jobNumber": "20230159",
     "jobTitle": "Physician Assistant",
     "description": "ASSIGNMENT DESCRIPTION: Physician Assistants provide medical services and perform applicable administrative functions and case management to support the Medical Director. They perform medical examinations, provide diagnosis and treatment within personal credentials, engage in medical consultation, and perform clinical case management. In addition to clinical duties, Physician Assistants support co...",
@@ -305,7 +305,7 @@
     "jobFamily": "Medicl and Occupatnal Hlth"
   },
   {
-    "_id": "63eb74be53be37a42e537d6e",
+    "_id": "63ecca919f9a9402bfb21e10",
     "jobNumber": "20230160",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -334,7 +334,7 @@
     "jobFamily": "Physical Security"
   },
   {
-    "_id": "63eb74be53be373a5f537d70",
+    "_id": "63ecca919f9a94a44ab21e12",
     "jobNumber": "20230161",
     "jobTitle": "Standards Architect",
     "description": "ASSIGNMENT DESCRIPTION: Standards Architects develop, maintain, and govern the adoption of standards to enable the creation, sharing, and appropriate use of data and products across the GEOINT community. They evaluate the impact of changes in standards on the NSG/ASG mission. They prepare policies and procedures that facilitate the identification, development, implementation, and governance of GEO...",
@@ -363,7 +363,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63eb74be53be37c1b9537d72",
+    "_id": "63ecca919f9a9405c1b21e14",
     "jobNumber": "20230162",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -393,7 +393,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63eb74be53be37018a537d74",
+    "_id": "63ecca919f9a94a00db21e16",
     "jobNumber": "20230163",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -423,7 +423,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63eb74be53be37a74e537d76",
+    "_id": "63ecca919f9a94e72ab21e18",
     "jobNumber": "20230165",
     "jobTitle": "Open Source Research Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Open-Source Research Analysts conduct geospatial open-source research projects for internal and external customers. They apply research strategies to conduct time-sensitive and in-depth research based on intelligence priorities and world events. They monitor, compile, and evaluate publicly available information (PAI) in support of GEOINT requirements. These analysts also id...",
@@ -453,7 +453,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63eb74be53be37307d537d7e",
+    "_id": "63ecca919f9a946c40b21e20",
     "jobNumber": "20230201",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -728,7 +728,7 @@
     "postedDate": "2023-02-10T00:00:00.000Z"
   },
   {
-    "_id": "63eb74be53be371222537d78",
+    "_id": "63ecca919f9a941719b21e1a",
     "jobNumber": "20230166",
     "jobTitle": "Attorney (Acquisition and Contracts)",
     "description": "ASSIGNMENT DESCRIPTION: Attorneys provide legal advice and representation to ensure that NGA accomplishes its mission in compliance with applicable laws. They ascertain facts, analyze issues, apply legal authorities, render opinions, and advocate Agency positions. Attorneys work cooperatively with others within the office, the Agency, the Intelligence Community, the DoD, and the U.S. Government. A...",
@@ -758,7 +758,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63eb74be53be3787e4537d7a",
+    "_id": "63ecca919f9a94272ab21e1c",
     "jobNumber": "20230167",
     "jobTitle": "Attorney (General)",
     "description": "ASSIGNMENT DESCRIPTION: Attorneys provide legal advice and representation to ensure that NGA accomplishes its mission in compliance with applicable laws. They ascertain facts, analyze issues, apply legal authorities, render opinions, and advocate Agency positions. Attorneys work cooperatively with others within the office, the Agency, the Intelligence Community, the DoD, and the U.S. Government. A...",
@@ -952,7 +952,7 @@
     "postedDate": "2023-02-07T00:00:00.000Z"
   },
   {
-    "_id": "63eb74be53be377238537d60",
+    "_id": "63ecca919f9a942227b21e02",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
@@ -983,7 +983,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63eb74be53be3753bc537d62",
+    "_id": "63ecca919f9a946cf7b21e04",
     "jobNumber": "20230139",
     "jobTitle": "Inspector",
     "description": "ASSIGNMENT DESCRIPTION: Inspectors perform independent inspections, evaluations, and reviews of Agency policy, programs, and operations. They gather and analyze information, identify areas for improvement, draft findings and recommendations, and prepare reports and other products in accordance with Agency, NGA Office of Inspector General (OIG), Intelligence Community (IC), and Department of Defens...",
@@ -1013,7 +1013,7 @@
     "jobFamily": "Inspctn, Invstigtn, Enfrcmnt"
   },
   {
-    "_id": "63eb74be53be373f13537d64",
+    "_id": "63ecca919f9a94060bb21e06",
     "jobNumber": "20230140",
     "jobTitle": "Open Source Research Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Open-Source Research Analysts conduct geospatial open-source research projects for internal and external customers. They apply research strategies to conduct time-sensitive and in-depth research based on intelligence priorities and world events. They monitor, compile, and evaluate publicly available information (PAI) in support of GEOINT requirements. These analysts also id...",
@@ -1044,7 +1044,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63eb74be53be37eddb537d66",
+    "_id": "63ecca919f9a947e59b21e08",
     "jobNumber": "20230141",
     "jobTitle": "Source Strategies Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Source Strategies Analysts collaborate with customers and source providers to develop comprehensive multi-intelligence (multi-INT), multi-source strategies to address intelligence problems. They create tasking and dissemination requirements; adjudicate requirements; analyze and investigate collection performance; assess and report on end-to-end GEOINT system performance dat...",
@@ -1075,7 +1075,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63eb74be53be373e63537d68",
+    "_id": "63ecca919f9a944410b21e0a",
     "jobNumber": "20230142",
     "jobTitle": "Source Strategies Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Source Strategies Analysts collaborate with customers and source providers to develop comprehensive multi-intelligence (multi-INT), multi-source strategies to address intelligence problems. They create tasking and dissemination requirements; adjudicate requirements; analyze and investigate collection performance; assess and report on end-to-end GEOINT system performance dat...",
@@ -3237,7 +3237,7 @@
     "postedDate": "2023-01-30T00:00:00.000Z"
   },
   {
-    "_id": "63eb74be53be3742ad537d4c",
+    "_id": "63ecca919f9a949444b21dee",
     "jobNumber": "20230116",
     "jobTitle": "Visual Information Specialist (Graphic Designer)",
     "description": "ASSIGNMENT DESCRIPTION: Visual Information Specialists design, produce, and finish visual products. They apply broad knowledge of design principles to communicate concepts or ideas visually. They use visual communication software to generate hardcopy, softcopy, and web content, to include geospatial information products, publications, brochures, and web products....",
@@ -3266,7 +3266,7 @@
     "jobFamily": "Comm. and Public Affairs"
   },
   {
-    "_id": "63eb74be53be37377e537d5e",
+    "_id": "63ecca919f9a9463cab21e00",
     "jobNumber": "20230135",
     "jobTitle": "Geodetic Surveyor (Holloman AFB, NM)",
     "description": "ASSIGNMENT DESCRIPTION: Geodetic Surveyors perform geodetic, geophysical, and handheld GEOINT surveys. They use, maintain, and troubleshoot survey equipment, and compute, adjust, and evaluate geodetic survey data. They provide technical expertise on geodetic and geophysical issues to customers and represent NGA in external community forums....",
@@ -3951,7 +3951,7 @@
     "postedDate": "2023-01-23T00:00:00.000Z"
   },
   {
-    "_id": "63eb74be53be376d4a537d50",
+    "_id": "63ecca919f9a9410eab21df2",
     "jobNumber": "20230119",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -3980,7 +3980,7 @@
     "jobFamily": "Bus., Accntng and Bdgt"
   },
   {
-    "_id": "63eb74be53be379372537d52",
+    "_id": "63ecca919f9a94558db21df4",
     "jobNumber": "20230120",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -6223,7 +6223,7 @@
     "postedDate": "2022-11-23T00:00:00.000Z"
   },
   {
-    "_id": "63eb74be53be3716de537cbc",
+    "_id": "63ecca919f9a947020b21d5e",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
