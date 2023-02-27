@@ -1,6 +1,6 @@
 [
   {
-    "_id": "63f8b1741402192d8799e94b",
+    "_id": "63fc9c9eb3b21bd9e4ce68a8",
     "jobNumber": "20230196",
     "jobTitle": "Imagery Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Imagery Analysts maintain and build tasking strategies, and analyze and interpret imagery to support U.S. military and policymaker interests. They analyze the activities and interests of countries, regions, and non-state entities, as well as the impact of natural and man-made disasters. In addition, these analysts conduct multi-INT research, populate and exploit intelligenc...",
@@ -521,7 +521,7 @@
     "postedDate": "2023-02-23T00:00:00.000Z"
   },
   {
-    "_id": "63f8b174140219c30899e93b",
+    "_id": "63fc9c9eb3b21b1debce6898",
     "jobNumber": "20230164",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -551,7 +551,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63f8b174140219524699e943",
+    "_id": "63fc9c9eb3b21bc8bace68a0",
     "jobNumber": "20230168",
     "jobTitle": "Cybersecurity Management Officer",
     "description": "ASSIGNMENT DESCRIPTION: Cybersecurity Management Officers ensure that Agency information systems comply with applicable standards and guidelines.  They provide oversight of documentation, validation, accreditation, and authorization processes necessary for the implementation, operation, and maintenance of information technology systems.  They ensure appropriate managerial responses for associated ...",
@@ -582,7 +582,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63f8b17414021942e299e945",
+    "_id": "63fc9c9eb3b21b4222ce68a2",
     "jobNumber": "20230190",
     "jobTitle": "OPIR Operations Analyst",
     "description": "ASSIGNMENT DESCRIPTION: OPIR Operations Analysts specialize in the tasking, collection, processing, and dissemination of OPIR resources and data. OPIR planning and real-time execution incorporate multi-intelligence (multi-INT) collaborative inputs to address long-term and emerging customer requirements. These analysts also troubleshoot OPIR performance issues and develop and recommend changes to O...",
@@ -611,7 +611,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63f8b1741402197e1499e947",
+    "_id": "63fc9c9eb3b21b2462ce68a4",
     "jobNumber": "20230191",
     "jobTitle": "Throughput Strategies Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Throughput Strategies Analysts collaborate with customers and source providers to ensure the delivery of GEOINT source data. They develop optimal source throughput requirements and monitor, troubleshoot, and report on throughput health and status. These analysts also implement relevant release policies; monitor site bandwidth utilization; recommend alternative delivery path...",
@@ -640,7 +640,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63f8b17414021965db99e94d",
+    "_id": "63fc9c9eb3b21be60fce68aa",
     "jobNumber": "20230199",
     "jobTitle": "Supervisory R&D Scientist - NGA Research Geophysics Pod",
     "description": "ASSIGNMENT DESCRIPTION: R&D Scientists apply the scientific method in one or more disciplines (e.g., Photogrammetry, Geodesy, Computer Science, Mathematics, Image Science, Human Terrain Analysis) to advance Geospatial Science and enhance Agency tradecraft.  They conduct and develop novel scientific research projects and facilitate interdisciplinary collaboration to further scientific inquiry and a...",
@@ -670,7 +670,7 @@
     "jobFamily": "Engineering and Physical Sci"
   },
   {
-    "_id": "63f8b174140219c22999e94f",
+    "_id": "63fc9c9eb3b21b1fb5ce68ac",
     "jobNumber": "20230200",
     "jobTitle": "Program Security Officer",
     "description": "ASSIGNMENT DESCRIPTION: Program Security Officers serve as multidisciplinary security specialists, and advisors, providing situational and program level end-to-end guidance and consultation in the following security disciplines: personnel, information, physical, industrial, and operational security. They routinely conduct specific and continuous programmatic security analyses evaluating the protec...",
@@ -1109,7 +1109,7 @@
     "postedDate": "2023-02-14T00:00:00.000Z"
   },
   {
-    "_id": "63f8b1741402196bed99e937",
+    "_id": "63fc9c9eb3b21b7885ce6894",
     "jobNumber": "20230162",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -1139,7 +1139,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63f8b174140219548999e939",
+    "_id": "63fc9c9eb3b21bb397ce6896",
     "jobNumber": "20230163",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -1333,7 +1333,7 @@
     "postedDate": "2023-02-10T00:00:00.000Z"
   },
   {
-    "_id": "63f8b174140219d3fb99e93f",
+    "_id": "63fc9c9eb3b21b5211ce689c",
     "jobNumber": "20230166",
     "jobTitle": "Attorney (Acquisition and Contracts)",
     "description": "ASSIGNMENT DESCRIPTION: Attorneys provide legal advice and representation to ensure that NGA accomplishes its mission in compliance with applicable laws. They ascertain facts, analyze issues, apply legal authorities, render opinions, and advocate Agency positions. Attorneys work cooperatively with others within the office, the Agency, the Intelligence Community, the DoD, and the U.S. Government. A...",
@@ -1363,7 +1363,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63f8b1741402195bce99e941",
+    "_id": "63fc9c9eb3b21b4af4ce689e",
     "jobNumber": "20230167",
     "jobTitle": "Attorney (General)",
     "description": "ASSIGNMENT DESCRIPTION: Attorneys provide legal advice and representation to ensure that NGA accomplishes its mission in compliance with applicable laws. They ascertain facts, analyze issues, apply legal authorities, render opinions, and advocate Agency positions. Attorneys work cooperatively with others within the office, the Agency, the Intelligence Community, the DoD, and the U.S. Government. A...",
@@ -1475,7 +1475,7 @@
     "postedDate": "2023-02-07T00:00:00.000Z"
   },
   {
-    "_id": "63f8b1741402195d8099e925",
+    "_id": "63fc9c9eb3b21b16e5ce6882",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
@@ -5852,7 +5852,7 @@
     "postedDate": "2022-12-08T00:00:00.000Z"
   },
   {
-    "_id": "63f8b174140219fd8499e881",
+    "_id": "63fc9c9eb3b21bd3f4ce67de",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
