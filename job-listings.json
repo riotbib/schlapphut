@@ -164,7 +164,7 @@
     "postedDate": "2023-02-27T00:00:00.000Z"
   },
   {
-    "_id": "63fdee1edfa560210930f8fd",
+    "_id": "63fe553a9bbf720aa046cb8b",
     "jobNumber": "20230196",
     "jobTitle": "Imagery Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Imagery Analysts maintain and build tasking strategies, and analyze and interpret imagery to support U.S. military and policymaker interests. They analyze the activities and interests of countries, regions, and non-state entities, as well as the impact of natural and man-made disasters. In addition, these analysts conduct multi-INT research, populate and exploit intelligenc...",
@@ -685,7 +685,7 @@
     "postedDate": "2023-02-23T00:00:00.000Z"
   },
   {
-    "_id": "63fdee1edfa56003db30f8ed",
+    "_id": "63fe553a9bbf722df846cb7b",
     "jobNumber": "20230164",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -715,7 +715,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63fdee1edfa560852a30f8f5",
+    "_id": "63fe553a9bbf72f55246cb83",
     "jobNumber": "20230168",
     "jobTitle": "Cybersecurity Management Officer",
     "description": "ASSIGNMENT DESCRIPTION: Cybersecurity Management Officers ensure that Agency information systems comply with applicable standards and guidelines.  They provide oversight of documentation, validation, accreditation, and authorization processes necessary for the implementation, operation, and maintenance of information technology systems.  They ensure appropriate managerial responses for associated ...",
@@ -746,7 +746,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63fdee1edfa560573930f8f7",
+    "_id": "63fe553a9bbf723ed046cb85",
     "jobNumber": "20230190",
     "jobTitle": "OPIR Operations Analyst",
     "description": "ASSIGNMENT DESCRIPTION: OPIR Operations Analysts specialize in the tasking, collection, processing, and dissemination of OPIR resources and data. OPIR planning and real-time execution incorporate multi-intelligence (multi-INT) collaborative inputs to address long-term and emerging customer requirements. These analysts also troubleshoot OPIR performance issues and develop and recommend changes to O...",
@@ -775,7 +775,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63fdee1edfa560adc730f8f9",
+    "_id": "63fe553a9bbf7284be46cb87",
     "jobNumber": "20230191",
     "jobTitle": "Throughput Strategies Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Throughput Strategies Analysts collaborate with customers and source providers to ensure the delivery of GEOINT source data. They develop optimal source throughput requirements and monitor, troubleshoot, and report on throughput health and status. These analysts also implement relevant release policies; monitor site bandwidth utilization; recommend alternative delivery path...",
@@ -804,7 +804,7 @@
     "jobFamily": "Intelligence Collection"
   },
   {
-    "_id": "63fdee1edfa560659a30f8ff",
+    "_id": "63fe553a9bbf720ab246cb8d",
     "jobNumber": "20230199",
     "jobTitle": "Supervisory R&D Scientist - NGA Research Geophysics Pod",
     "description": "ASSIGNMENT DESCRIPTION: R&D Scientists apply the scientific method in one or more disciplines (e.g., Photogrammetry, Geodesy, Computer Science, Mathematics, Image Science, Human Terrain Analysis) to advance Geospatial Science and enhance Agency tradecraft.  They conduct and develop novel scientific research projects and facilitate interdisciplinary collaboration to further scientific inquiry and a...",
@@ -834,7 +834,7 @@
     "jobFamily": "Engineering and Physical Sci"
   },
   {
-    "_id": "63fdee1edfa56008dc30f901",
+    "_id": "63fe553a9bbf7264a646cb8f",
     "jobNumber": "20230200",
     "jobTitle": "Program Security Officer",
     "description": "ASSIGNMENT DESCRIPTION: Program Security Officers serve as multidisciplinary security specialists, and advisors, providing situational and program level end-to-end guidance and consultation in the following security disciplines: personnel, information, physical, industrial, and operational security. They routinely conduct specific and continuous programmatic security analyses evaluating the protec...",
@@ -1273,7 +1273,7 @@
     "postedDate": "2023-02-14T00:00:00.000Z"
   },
   {
-    "_id": "63fdee1edfa560e28b30f8e9",
+    "_id": "63fe553a9bbf7216e546cb77",
     "jobNumber": "20230162",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -1303,7 +1303,7 @@
     "jobFamily": "Computer Science"
   },
   {
-    "_id": "63fdee1edfa560450e30f8eb",
+    "_id": "63fe553a9bbf72db2246cb79",
     "jobNumber": "20230163",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -1497,7 +1497,7 @@
     "postedDate": "2023-02-10T00:00:00.000Z"
   },
   {
-    "_id": "63fdee1edfa560215530f8f1",
+    "_id": "63fe553a9bbf72546346cb7f",
     "jobNumber": "20230166",
     "jobTitle": "Attorney (Acquisition and Contracts)",
     "description": "ASSIGNMENT DESCRIPTION: Attorneys provide legal advice and representation to ensure that NGA accomplishes its mission in compliance with applicable laws. They ascertain facts, analyze issues, apply legal authorities, render opinions, and advocate Agency positions. Attorneys work cooperatively with others within the office, the Agency, the Intelligence Community, the DoD, and the U.S. Government. A...",
@@ -1519,7 +1519,7 @@
     "agency": "NGA",
     "locationFull": "Springfield, VA || St Louis, MO",
     "postedDate": "2023-02-08T00:00:00.000Z",
-    "jobCloseDate": "2023-03-04T00:00:00.000Z",
+    "jobCloseDate": "2023-03-06T00:00:00.000Z",
     "jobFullTimePartTime": "No data",
     "grade": "B4",
     "jobPayPlan": "IA",
@@ -1527,7 +1527,7 @@
     "jobFamily": "Other"
   },
   {
-    "_id": "63fdee1edfa560608f30f8f3",
+    "_id": "63fe553a9bbf72b5e846cb81",
     "jobNumber": "20230167",
     "jobTitle": "Attorney (General)",
     "description": "ASSIGNMENT DESCRIPTION: Attorneys provide legal advice and representation to ensure that NGA accomplishes its mission in compliance with applicable laws. They ascertain facts, analyze issues, apply legal authorities, render opinions, and advocate Agency positions. Attorneys work cooperatively with others within the office, the Agency, the Intelligence Community, the DoD, and the U.S. Government. A...",
@@ -1549,7 +1549,7 @@
     "agency": "NGA",
     "locationFull": "Springfield, VA || St Louis, MO",
     "postedDate": "2023-02-08T00:00:00.000Z",
-    "jobCloseDate": "2023-03-04T00:00:00.000Z",
+    "jobCloseDate": "2023-03-06T00:00:00.000Z",
     "jobFullTimePartTime": "No data",
     "grade": "B4",
     "jobPayPlan": "IA",
@@ -1639,24 +1639,24 @@
     "postedDate": "2023-02-07T00:00:00.000Z"
   },
   {
-    "_id": "63fdee1edfa560feee30f8d7",
+    "_id": "63fe553a9bbf7202ff46cb65",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
-    "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
-    "fullDescription": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake",
-    "jobWhoApply": "External Applicants Only",
+    "description": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023....",
+    "fullDescription": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023.",
+    "jobWhoApply": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023.",
     "jobCoverLetter": "Applicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. The cover letter is recommended but is not required for employment consideration with the National Geospatial-Intelligence Agency. Applicants should place their narrative information in the Cover Letter / Other Professional Details field.",
-    "jobDevelopAssignment": "CAREER ADVANCEMENT PROGRAM: All Professional Work Category positions advertised at a Pay Band 2 are part of NGA's Career Advancement Program (CAP). Employees in the Career Advancement Program will be evaluated semi-annually to determine if they meet the established program requirements. If requirements are met, employees will be eligible for a salary increase. Upon meeting all program requirements, the employee is eligible to be promoted non-competitively to a Pay Band 3. This promotion completes Career Advancement Program participation meaning the employee will no longer receive salary increases through the Career Advancement Program, and will now be evaluated in accordance to the Agency's standard evaluation processes.",
-    "jobAdditionalInformation": "ADDITIONAL INFORMATION: *** The actual duty location of this position will be at one of the following: ***\n-   NCE-Springfield, VA\n-   Charlottesville, VA\n-   McLean, VA\n-   Arlington, VA\n-   DIA-Bolling AFB, DC\n-   Pentagon (NST), DC\n-   NSA-Ft. Meade (NST), MD\n-   Suitland, MD\n-   Wright-Patterson AFB, OH\n-   NCW-St. Louis, MO\n-   Arnold, MO\n-   Denver, CO\n\nNGA Student Programs (ONLY) related Job Code allowing the ability to intake applicants for permanent appointment. Do not apply for this repository unless directed by NGA Student Programs.\n\nCAREER ADVANCEMENT PROGRAM: All Professional Work Category positions advertised at a Pay Band 2 are part of NGA's Career Advancement Program (CAP). Employees in the Career Advancement Program will be evaluated semi-annually to determine if they meet the established program requirements. If requirements are met, employees will be eligible for a salary increase. Upon meeting all program requirements, the employee is eligible to be promoted non-competitively to a Pay Band 3. This promotion completes Career Advancement Program participation meaning the employee will no longer receive salary increases through the Career Advancement Program, and will now be evaluated in accordance to the Agency's standard evaluation processes.\n\nApplicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. The cover letter is recommended but is not required for employment consideration with the National Geospatial-Intelligence Agency. Applicants should place their narrative information in the Cover Letter / Other Professional Details field.\n\nPROMOTION OPPORTUNITY: Promotion opportunities allow applicants at all band levels to be considered. Qualifications for NGA positions do not include specific time-in-band requirements. NGA will emphasize quality of experience, rather than duration, and assess how the quality of the experience demonstrates possession of the knowledge, skills, abilities, and competencies necessary for successful job performance in the NGA occupational structure.\n\nAdditional Application Requirement: You may be asked to complete one or more assessments in addition to the application you submit on this website as part of your application to NGA. These assessments may include but are not limited to: 1) Online questionnaires or assessments that require you to describe your job-related knowledge, skills, abilities, or other characteristics that are aligned with the mandatory and desirable qualifications of this job posting. The information you provide in the application you submit must support the response you provide to this questionnaire. You will receive an email to describe any additional assessments required. Please monitor your emails and complete any required assessments as soon as possible.",
-    "jobHighlyDesiredSkills": "QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired:",
+    "jobDevelopAssignment": "CAREER ADVANCEMENT PROGRAM:  All Professional Work Category positions advertised at a Pay Band 2 are part of NGA's Career Advancement Program (CAP). Employees in the Career Advancement Program will be evaluated semi-annually to determine if they meet the established program requirements. If requirements are met, employees will be eligible for a salary increase. Upon meeting all program requirements, the employee is eligible to be promoted non-competitively to a Pay Band 3. This promotion completes Career Advancement Program participation meaning the employee will no longer receive salary increases through the Career Advancement Program, and will now be evaluated in accordance to the Agency's standard evaluation processes.",
+    "jobAdditionalInformation": "*** The actual duty location of this position will be at one of the following: ***\n-   NCE-Springfield, VA\n-   Charlottesville, VA\n-   McLean, VA\n-   Arlington, VA\n-   DIA-Bolling AFB, DC\n-   Pentagon (NST), DC\n-   NSA-Ft. Meade (NST), MD\n-   Suitland, MD\n-   Wright-Patterson AFB, OH\n-   NCW-St. Louis, MO\n-   Arnold, MO\n-   Denver, CO\n\nAdditional Application Requirement: You may be asked to complete one or more assessments in addition to the application you submit on this website as part of your application to NGA. These assessments may include but are not limited to: 1) Online questionnaires or assessments that require you to describe your job-related knowledge, skills, abilities, or other characteristics that are aligned with the mandatory and desirable qualifications of this job posting. The information you provide in the application you submit must support the response you provide to this questionnaire. You will receive an email to describe any additional assessments required. Please monitor your emails and complete any required assessments as soon as possible.",
+    "jobHighlyDesiredSkills": "DESIRABLE QUALIFICATION CRITERIA: When the AON closes, applicants will be given a list of desired qualifications for each occupation for consideration.",
     "jobAdditionalRequirements": "You must be able to obtain and retain a Top Secret security clearance with access to Sensitive Compartmented Information. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, and/or unescorted access to SCIFs.\r\n\r\nEmployees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, and/or unescorted access to SCIFs.",
     "jobDCIPS": "NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process. Employees on term or temporary appointments are not eligible to apply for internal assignment opportunity notices. \r\n\r\nThis position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601.  DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility in your application.",
-    "jobHowEvaluated": "APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in three stages: \r\n\r\n1) All applicants will be evaluated using the Mandatory Qualification Criteria, \r\n2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, \r\n3) Best-qualified applicants may then be further evaluated through an interview process. \r\n\r\nMilitary retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01.  HD personnel will provide additional information if applicable.\r\n\r\nApplicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education information referenced in the announcement. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted.  \r\n\r\nIn accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or redetermined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300, at http://www.dtic.mil/whs/directives.)\r\n\r\nAll candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.\r\n\r\nNGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Persons with Disabilities (PWD) Program at PWDProgram@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.\r\n\r\nDisabled applicants are encouraged to apply directly to external job announcements in addition to the Resume Repository. NGA reserves the right to direct hire Disabled Veterans with 30%+ Comp in alignment with the NGA Hiring Strategy. By selecting this option on the application form and applying to the NGA Resume Repository, you may be considered for future direct hire against critical mission vacancies. Participation does not guarantee employment.",
+    "jobHowEvaluated": "APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in two stages: \n\n1) All applicants will be evaluated using the Mandatory Qualification Criteria outlined in HireVue questionnaire, based on occupation wished to be considered for, \n2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates. \n\n\nAll candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation. NGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Persons with Disabilities (PWD) Program at PWDProgram@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis. Disabled applicants are encouraged to apply directly to external job announcements in addition to the Resume Repository. NGA reserves the right to direct hire Disabled Veterans with 30%+ Comp in alignment with the NGA Hiring Strategy. \n\nParticipation does not guarantee employment.",
     "jobHowToApply": "Application submission involves applying using the Intelligence Community's Applicant Gateway on-line application process. \r\n\r\nONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.",
-    "jobQualifications": "MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online applications must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement:",
+    "jobQualifications": "MANDATORY QUALIFICATION CRITERIA: Applicants will be evaluated based on the occupation/work role skill and competency requirements, for each occupation for consideration. A description of each occupation will be provided to eligible applicants, once announcement has closed.",
     "jobNotes": "As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards. \r\n\r\n- U.S. Citizenship Required\r\n- Security Clearance (Top Secret/Sensitive Compartmented Information)\r\n- Polygraph Test Required\r\n- Position Subject to Drug Testing\r\n- Two Year Probationary Period\r\n- Direct Deposit Required",
     "jobWorkSchedule": "PROMOTION OPPORTUNITY: Promotion opportunities allow applicants at all band levels to be considered.  Qualifications for NGA positions do not include specific time-in-band requirements.  NGA will emphasize quality of experience, rather than duration, and assess how the quality of the experience demonstrates possession of the knowledge, skills, abilities, and competencies necessary for successful job performance in the NGA occupational structure.\n\nBand 02   $47,738- $92,995\nBand 03   $70,649 - $145,617\n\n\nPERMANENT CHANGE IN STATION: PCS expenses are not authorized.\n\nPay is only part of the compensation you will earn working for the Federal Government. We offer a broad array of benefits programs and family friendly flexibilities to meet the needs of you and your family. \n\nFor more information on the array of benefits programs, please visit https://www.intelligencecareers.gov/nga/ngabenefits.html",
-    "jobPositionSummary": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake",
+    "jobPositionSummary": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023.",
     "jobFamilyId": "900000",
     "jobOpenDate": "2023-01-25T00:00:00.000Z",
     "agency": "NGA",
@@ -6016,7 +6016,7 @@
     "postedDate": "2022-12-08T00:00:00.000Z"
   },
   {
-    "_id": "63fdee1edfa56018ee30f833",
+    "_id": "63fe553a9bbf725ef146cac1",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
