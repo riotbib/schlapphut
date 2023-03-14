@@ -79,7 +79,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-14T00:00:00.000Z"
+    "postedDate": "2023-03-14T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "6409fd75c05cab58ff5ffa0d",
@@ -161,7 +162,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-14T00:00:00.000Z"
+    "postedDate": "2023-03-14T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "640b4fa0c05cab58ff694265",
@@ -243,7 +245,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-14T00:00:00.000Z"
+    "postedDate": "2023-03-14T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63ee4db4c05cab58ffa98861",
@@ -325,7 +328,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-13T00:00:00.000Z"
+    "postedDate": "2023-03-13T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63ff785fc05cab58ff166190",
@@ -407,7 +411,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-13T00:00:00.000Z"
+    "postedDate": "2023-03-13T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "6409fd75c05cab58ff5ffa0c",
@@ -489,7 +494,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-13T00:00:00.000Z"
+    "postedDate": "2023-03-13T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "640b4fa0c05cab58ff694263",
@@ -571,7 +577,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-13T00:00:00.000Z"
+    "postedDate": "2023-03-13T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d1bf8c6731e",
@@ -601,7 +608,8 @@
     "grade": "B3",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Intelligence Analysis"
+    "jobFamily": "Intelligence Analysis",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182dc1c1c67320",
@@ -631,7 +639,8 @@
     "grade": "B4",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Intelligence Analysis"
+    "jobFamily": "Intelligence Analysis",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d3be2c6732a",
@@ -661,7 +670,8 @@
     "grade": "B3",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Computer Science"
+    "jobFamily": "Computer Science",
+    "jobVisible": true
   },
   {
     "_id": "640f3878c05cab58ff7ee86b",
@@ -743,7 +753,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-11T00:00:00.000Z"
+    "postedDate": "2023-03-11T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "6400c2aec05cab58ff1f46b8",
@@ -825,7 +836,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-10T00:00:00.000Z"
+    "postedDate": "2023-03-10T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "6408abd1c05cab58ff56efcf",
@@ -907,7 +919,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || Utah Data Center (UDC), UT",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-10T00:00:00.000Z"
+    "postedDate": "2023-03-10T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "640b4fa0c05cab58ff694264",
@@ -989,7 +1002,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-10T00:00:00.000Z"
+    "postedDate": "2023-03-10T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63fcd013c05cab58ff040da7",
@@ -1071,7 +1085,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-09T00:00:00.000Z"
+    "postedDate": "2023-03-09T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d9fdec672b4",
@@ -1101,7 +1116,8 @@
     "grade": "B4",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Bus., Accntng and Bdgt"
+    "jobFamily": "Bus., Accntng and Bdgt",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d8550c672c0",
@@ -1130,7 +1146,8 @@
     "grade": "B4",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Engineering and Physical Sci"
+    "jobFamily": "Engineering and Physical Sci",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d82d7c672c2",
@@ -1159,7 +1176,8 @@
     "grade": "B4",
     "jobPayPlan": "IA",
     "location": "Charlottesville, VA",
-    "jobFamily": "Intelligence Analysis"
+    "jobFamily": "Intelligence Analysis",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182dbdf9c672c8",
@@ -1189,7 +1207,8 @@
     "grade": "B3",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Physical Security"
+    "jobFamily": "Physical Security",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d5badc672ca",
@@ -1218,7 +1237,8 @@
     "grade": "B4",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Other"
+    "jobFamily": "Other",
+    "jobVisible": true
   },
   {
     "_id": "6400c2aec05cab58ff1f46b9",
@@ -1300,7 +1320,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-04T00:00:00.000Z"
+    "postedDate": "2023-03-04T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63fcd013c05cab58ff040da8",
@@ -1382,7 +1403,8 @@
     "locationArea": "169",
     "locationFull": "Anchorage, AK || Denver/Aurora, CO || Utah Data Center (UDC), UT",
     "locationSpecificId": "L169",
-    "postedDate": "2023-03-03T00:00:00.000Z"
+    "postedDate": "2023-03-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63f8d9b9c05cab58ffeddc3d",
@@ -1464,7 +1486,8 @@
     "locationArea": "215",
     "locationFull": "Fort Gordon, GA",
     "locationSpecificId": "L215",
-    "postedDate": "2023-03-01T00:00:00.000Z"
+    "postedDate": "2023-03-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63ff785fc05cab58ff166191",
@@ -1546,7 +1569,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-01T00:00:00.000Z"
+    "postedDate": "2023-03-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63ff785fc05cab58ff166192",
@@ -1628,7 +1652,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-03-01T00:00:00.000Z"
+    "postedDate": "2023-03-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63fe1fe9c05cab58ff0d3e9a",
@@ -1710,7 +1735,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-28T00:00:00.000Z"
+    "postedDate": "2023-02-28T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63fcd013c05cab58ff040da9",
@@ -1792,7 +1818,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-27T00:00:00.000Z"
+    "postedDate": "2023-02-27T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63f8d9b9c05cab58ffeddc3e",
@@ -1874,7 +1901,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-24T00:00:00.000Z"
+    "postedDate": "2023-02-24T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63f7885cc05cab58ffe48928",
@@ -1956,7 +1984,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-23T00:00:00.000Z"
+    "postedDate": "2023-02-23T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63f7885cc05cab58ffe4892a",
@@ -2038,7 +2067,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-23T00:00:00.000Z"
+    "postedDate": "2023-02-23T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63f7885cc05cab58ffe4892b",
@@ -2120,7 +2150,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-23T00:00:00.000Z"
+    "postedDate": "2023-02-23T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63f7885cc05cab58ffe4892c",
@@ -2202,7 +2233,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-23T00:00:00.000Z"
+    "postedDate": "2023-02-23T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d5dffc672a6",
@@ -2232,7 +2264,8 @@
     "grade": "B5",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Computer Science"
+    "jobFamily": "Computer Science",
+    "jobVisible": true
   },
   {
     "_id": "63e664cdc9d32d14c8b3fc42",
@@ -2314,7 +2347,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-15T00:00:00.000Z"
+    "postedDate": "2023-02-15T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63ed0335c05cab58ffa03301",
@@ -2396,7 +2430,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-15T00:00:00.000Z"
+    "postedDate": "2023-02-15T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63ea9f1ac9d32d14c8d2270b",
@@ -2478,7 +2513,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-14T00:00:00.000Z"
+    "postedDate": "2023-02-14T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63e664cdc9d32d14c8b3fc41",
@@ -2560,7 +2596,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-11T00:00:00.000Z"
+    "postedDate": "2023-02-11T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63e664cdc9d32d14c8b3fc44",
@@ -2642,7 +2679,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-10T00:00:00.000Z"
+    "postedDate": "2023-02-10T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63e278f3c9d32d14c892a4f1",
@@ -2724,7 +2762,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-07T00:00:00.000Z"
+    "postedDate": "2023-02-07T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182d43c8c67290",
@@ -2755,7 +2794,8 @@
     "grade": "B2",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Other"
+    "jobFamily": "Other",
+    "jobVisible": true
   },
   {
     "_id": "63d82c21be5b9903d0c1cd2a",
@@ -2837,7 +2877,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d3268",
@@ -2919,7 +2960,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d326c",
@@ -3001,7 +3043,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d3271",
@@ -3083,7 +3126,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d3267",
@@ -3165,7 +3209,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d326d",
@@ -3247,7 +3292,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d326f",
@@ -3329,7 +3375,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d3272",
@@ -3411,7 +3458,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63dd2660b90d94859f1d3274",
@@ -3493,7 +3541,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-03T00:00:00.000Z"
+    "postedDate": "2023-02-03T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63da8a41be5b9903d0d61d98",
@@ -3575,7 +3624,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-02T00:00:00.000Z"
+    "postedDate": "2023-02-02T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63da8a41be5b9903d0d61d99",
@@ -3657,7 +3707,8 @@
     "locationArea": "225",
     "locationFull": "NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-02T00:00:00.000Z"
+    "postedDate": "2023-02-02T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63c813b4be5b9903d0457070",
@@ -3739,7 +3790,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63c813b4be5b9903d0457071",
@@ -3821,7 +3873,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cffbb0be5b9903d0812aa2",
@@ -3903,7 +3956,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX || Utah Data Center (UDC), UT",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cffbb0be5b9903d0812aa1",
@@ -3985,7 +4039,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cffbb0be5b9903d0812aa3",
@@ -4067,7 +4122,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || Utah Data Center (UDC), UT",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cffbb0be5b9903d0812aa6",
@@ -4149,7 +4205,8 @@
     "locationArea": "225",
     "locationFull": "OPS 1, Ft. Meade, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cffbb0be5b9903d0812aa8",
@@ -4231,7 +4288,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d82c21be5b9903d0c1cd29",
@@ -4313,7 +4371,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d82c21be5b9903d0c1cd2b",
@@ -4395,7 +4454,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d93199be5b9903d0caa2d4",
@@ -4477,7 +4537,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d93199be5b9903d0caa2d6",
@@ -4559,7 +4620,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-02-01T00:00:00.000Z"
+    "postedDate": "2023-02-01T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d82c21be5b9903d0c1cd28",
@@ -4641,7 +4703,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-28T00:00:00.000Z"
+    "postedDate": "2023-01-28T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d3eb84be5b9903d0a36e71",
@@ -4723,7 +4786,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-27T00:00:00.000Z"
+    "postedDate": "2023-01-27T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d3eb84be5b9903d0a36e70",
@@ -4805,7 +4869,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-27T00:00:00.000Z"
+    "postedDate": "2023-01-27T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63c963fabe5b9903d0508fcd",
@@ -4887,7 +4952,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-26T00:00:00.000Z"
+    "postedDate": "2023-01-26T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d146cebe5b9903d08c37fd",
@@ -4969,7 +5035,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-25T00:00:00.000Z"
+    "postedDate": "2023-01-25T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63d2a0e0be5b9903d09819ca",
@@ -5051,7 +5118,8 @@
     "locationArea": "225",
     "locationFull": "Denver/Aurora, CO || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-25T00:00:00.000Z"
+    "postedDate": "2023-01-25T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cffbb0be5b9903d0812aa7",
@@ -5133,7 +5201,8 @@
     "locationArea": "225",
     "locationFull": "NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-23T00:00:00.000Z"
+    "postedDate": "2023-01-23T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63cab5dcbe5b9903d05b364b",
@@ -5215,7 +5284,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX || Draper, Utah, UT",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-20T00:00:00.000Z"
+    "postedDate": "2023-01-20T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63c963fabe5b9903d0508fce",
@@ -5297,7 +5367,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-19T00:00:00.000Z"
+    "postedDate": "2023-01-19T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63c813b4be5b9903d0457072",
@@ -5379,7 +5450,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-18T00:00:00.000Z"
+    "postedDate": "2023-01-18T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63c813b4be5b9903d0457075",
@@ -5461,7 +5533,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-18T00:00:00.000Z"
+    "postedDate": "2023-01-18T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63bd8663be5b9903d0f8948e",
@@ -5543,7 +5616,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-12T00:00:00.000Z"
+    "postedDate": "2023-01-12T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63b59d65be5b9903d0bf9555",
@@ -5625,7 +5699,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || NSA/CSS Hawaii Kunia, HI || Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-09T00:00:00.000Z"
+    "postedDate": "2023-01-09T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63b59d65be5b9903d0bf9554",
@@ -5707,7 +5782,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD || NSA/CSS Texas, San Antonio TX, TX",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-06T00:00:00.000Z"
+    "postedDate": "2023-01-06T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63b6eefcbe5b9903d0c978dc",
@@ -5789,7 +5865,8 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2023-01-06T00:00:00.000Z"
+    "postedDate": "2023-01-06T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "63a5c885be5b9903d0569706",
@@ -5871,7 +5948,8 @@
     "locationArea": "225",
     "locationFull": "Fort Gordon, GA || Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2022-12-23T00:00:00.000Z"
+    "postedDate": "2022-12-23T00:00:00.000Z",
+    "jobVisible": true
   },
   {
     "_id": "641052f1b6182dab0dc671ec",
@@ -5901,7 +5979,8 @@
     "grade": "B2",
     "jobPayPlan": "IA",
     "location": "Springfield, VA",
-    "jobFamily": "Other"
+    "jobFamily": "Other",
+    "jobVisible": true
   },
   {
     "_id": "633b38da119376f7d07d834e",
@@ -5983,6 +6062,7 @@
     "locationArea": "225",
     "locationFull": "Fort George G. Meade Complex, MD",
     "locationSpecificId": "L225",
-    "postedDate": "2022-10-01T00:00:00.000Z"
+    "postedDate": "2022-10-01T00:00:00.000Z",
+    "jobVisible": true
   }
 ]
