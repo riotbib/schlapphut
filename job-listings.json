@@ -830,7 +830,7 @@
     "postedDate": "2023-03-13T00:00:00.000Z"
   },
   {
-    "_id": "6412f65f0596027e8d77bfd4",
+    "_id": "64145a32f842c6223ace0de0",
     "jobNumber": "20230262",
     "jobTitle": "Data Steward",
     "description": "ASSIGNMENT DESCRIPTION: Data Stewards apply data management principles, governance guidelines, and understanding of data holdings to review, approve, and manage data in support of broad customer requirements for geospatial or organizational data. They facilitate effective data production and storage by aligning organizational processes (e.g., data sharing, metadata creation/maintenance) to governa...",
@@ -861,7 +861,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f05960272d277bfd6",
+    "_id": "64145a32f842c68585ce0de2",
     "jobNumber": "20230263",
     "jobTitle": "Data Steward",
     "description": "ASSIGNMENT DESCRIPTION: Data Stewards apply data management principles, governance guidelines, and understanding of data holdings to review, approve, and manage data in support of broad customer requirements for geospatial or organizational data. They facilitate effective data production and storage by aligning organizational processes (e.g., data sharing, metadata creation/maintenance) to governa...",
@@ -892,7 +892,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f059602495777bfe0",
+    "_id": "64145a32f842c61f09ce0dec",
     "jobNumber": "20230269",
     "jobTitle": "User Experience Architect",
     "description": "ASSIGNMENT DESCRIPTION: User Experience Architects apply user-centered design principles to build seamless, consistent, and desirable interfaces for NGA enterprise systems. They lead web-based design activities, including gathering, validating, analyzing, and defining requirements; conducting research and best practice reviews; performing user engagements and testing (e.g., interviews, site naviga...",
@@ -1338,7 +1338,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f0596025c0177bf6a",
+    "_id": "64145a32f842c6d87dce0d76",
     "jobNumber": "20230192",
     "jobTitle": "Forensic Data Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Forensic Data Analysts conduct and manage the Agency-wide Fraud Detection and Prevention Program. They apply tools and algorithms to identify unusual patterns and other indications of fraudulent activity. They access, manipulate, and/or combine data to decipher underlying trends or uncover anomalies, and discern obscure patterns and attributes associated with anomalies. The...",
@@ -1369,7 +1369,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f059602ae6577bf76",
+    "_id": "64145a32f842c6664fce0d82",
     "jobNumber": "20230209",
     "jobTitle": "Radar Imagery Scientist (Key West, FL)",
     "description": "ASSIGNMENT DESCRIPTION: Radar Imagery Scientists process and analyze radar data to extract intelligence and geospatial information. They collaborate with analysts to understand intelligence issues and provide scientific results to conduct intelligence production. They develop, test, and evaluate prototypes; and provide technical guidance to enhance radar imaging capability, applicability, and coll...",
@@ -1399,7 +1399,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f0596021aa377bf78",
+    "_id": "64145a32f842c68e4ace0d84",
     "jobNumber": "20230212",
     "jobTitle": "Imagery Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Imagery Analysts maintain and build tasking strategies, and analyze and interpret imagery to support U.S. military and policymaker interests. They analyze the activities and interests of countries, regions, and non-state entities, as well as the impact of natural and man-made disasters. In addition, these analysts conduct multi-INT research, populate and exploit intelligenc...",
@@ -1429,7 +1429,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f059602db7377bf7e",
+    "_id": "64145a32f842c6aa26ce0d8a",
     "jobNumber": "20230216",
     "jobTitle": "Polygraph Examiner",
     "description": "ASSIGNMENT DESCRIPTION: Polygraph Examiners conduct polygraph examinations on NGA civilian, military, and contractor personnel in accordance with DoD regulations and Federal standards. They conduct in-depth interviews, collect and interpret physiological data, and provide concise written reports on each examination administered. They remain current on changes in techniques, methods, and regulation...",
@@ -1460,7 +1460,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f05960274dd77bf80",
+    "_id": "64145a32f842c6482ece0d8c",
     "jobNumber": "20230217",
     "jobTitle": "Program Manager (IT Portfolio Manager)",
     "description": "ASSIGNMENT DESCRIPTION: Program Managers oversee the cost, schedule, and technical performance of acquisition, operations, and support activities, and are accountable for the overall success of the project or program. They collaborate with others to plan programs across their life cycle, lead program teams and activities, and monitor the acquisition process to ensure that work efforts achieve the ...",
@@ -2486,7 +2486,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f059602f4c677bf5c",
+    "_id": "64145a32f842c66a67ce0d68",
     "jobNumber": "20230164",
     "jobTitle": "Systems Engineer",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -2932,7 +2932,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f0596022ded77bf46",
+    "_id": "64145a32f842c6db7fce0d52",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023....",
@@ -5952,7 +5952,7 @@
     "jobVisible": true
   },
   {
-    "_id": "6412f65f0596024eca77bea2",
+    "_id": "64145a32f842c681afce0cae",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
