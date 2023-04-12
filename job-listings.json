@@ -83,7 +83,7 @@
     "postedDate": "2023-04-11T00:00:00.000Z"
   },
   {
-    "_id": "643541293d60c0f439b5f8e4",
+    "_id": "64368df9891fc77049a4395f",
     "jobNumber": "20230293",
     "jobTitle": "Cartographer (Maritime GIS Analyst)",
     "description": "ASSIGNMENT DESCRIPTION: Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specia...",
@@ -114,7 +114,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c0a61cb5f8e6",
+    "_id": "64368df9891fc72d85a43961",
     "jobNumber": "20230294",
     "jobTitle": "Cartographer (Maritime GIS Analyst)",
     "description": "ASSIGNMENT DESCRIPTION: Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specia...",
@@ -144,7 +144,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c028c2b5f8e8",
+    "_id": "64368df9891fc7be9ea43963",
     "jobNumber": "20230307",
     "jobTitle": "Photogrammetrist (Senior GEOINT Officer)",
     "description": "ASSIGNMENT DESCRIPTION: Photogrammetrists perform image assessment, point selection, mensuration, triangulation, orthorectification, dynamic range adjustments, and processing in order to produce image products. They increase the relative and absolute positioning accuracy of imagery from sensors to support mono and stereo exploitation. These analysts assess, evaluate, and extract elevation data fro...",
@@ -175,7 +175,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c078ddb5f8ea",
+    "_id": "64368df9891fc7bcaca43965",
     "jobNumber": "20230308",
     "jobTitle": "Program and Business Administrator (Staffing Resource Officer)",
     "description": "ASSIGNMENT DESCRIPTION: Program and Business Administration Officers perform a wide range of specialized functions and tasks to support NGA operations and staff. They provide program management and oversight; research, develop, interpret, and implement policies; identify, justify, and manage resources; develop and disseminate data metrics; and manage budget allocation and execution. They collabora...",
@@ -205,7 +205,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c0d2b8b5f8ec",
+    "_id": "64368df9891fc77b6ca43967",
     "jobNumber": "20230309",
     "jobTitle": "Imagery Production Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Imagery Production Specialists generate imagery products derived from digital and analog photographic systems. They operate high-volume precision and digital imagery production equipment/software. They manage aspects of imagery production, quality control, and/or chemical systems....",
@@ -235,7 +235,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c080bfb5f8f0",
+    "_id": "64368df9891fc7bf61a4396b",
     "jobNumber": "20230314",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -266,7 +266,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c078afb5f8f2",
+    "_id": "64368df9891fc70c65a4396d",
     "jobNumber": "20230316",
     "jobTitle": "Police Officer (Hiring Event)",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -296,7 +296,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c05ec2b5f8f4",
+    "_id": "64368df9891fc792dca4396f",
     "jobNumber": "20230317",
     "jobTitle": "Police Officer (Hiring Event)",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -1322,7 +1322,7 @@
     "postedDate": "2023-04-03T00:00:00.000Z"
   },
   {
-    "_id": "643541293d60c0ab6eb5f8da",
+    "_id": "64368df9891fc7da00a43955",
     "jobNumber": "20230286",
     "jobTitle": "Analytic Methodologist (Wright-Patterson AFB, OH)",
     "description": "ASSIGNMENT DESCRIPTION: Analytic Methodologists provide expertise to define intelligence problems, decompose problems into workable tasks for analysts and data professionals, advise on best methods to accomplish those tasks, and develop and apply quantitative and qualitative techniques to enhance the analysis of complex national security issues. They employ knowledge of GEOINT analysis and intelli...",
@@ -1352,7 +1352,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c0bbfbb5f8dc",
+    "_id": "64368df9891fc740f7a43957",
     "jobNumber": "20230287",
     "jobTitle": "Data Scientist",
     "description": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create ins...",
@@ -1382,7 +1382,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c04702b5f8de",
+    "_id": "64368df9891fc79e10a43959",
     "jobNumber": "20230288",
     "jobTitle": "Data Steward",
     "description": "ASSIGNMENT DESCRIPTION: Data Stewards apply data management principles, governance guidelines, and understanding of data holdings to review, approve, and manage data in support of broad customer requirements for geospatial or organizational data. They facilitate effective data production and storage by aligning organizational processes (e.g., data sharing, metadata creation/maintenance) to governa...",
@@ -1412,7 +1412,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c0edf2b5f8e0",
+    "_id": "64368df9891fc77ec5a4395b",
     "jobNumber": "20230290",
     "jobTitle": "Multimedia Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Multimedia Specialists design, produce, and finish interactive products. They apply understanding of a range of software applications (e.g., interactive authoring, graphic design, animation) and programming languages to integrate graphics with text and audio. They apply user interface design principles to presentation products to create a positive user experience. Activitie...",
@@ -1442,7 +1442,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c01457b5f8e2",
+    "_id": "64368df9891fc76964a4395d",
     "jobNumber": "20230291",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -2967,7 +2967,7 @@
     "postedDate": "2023-03-29T00:00:00.000Z"
   },
   {
-    "_id": "643541293d60c0a55fb5f8ee",
+    "_id": "64368df9891fc779b5a43969",
     "jobNumber": "20230310",
     "jobTitle": "Program Security Officer (Ops Support Spc)",
     "description": "ASSIGNMENT DESCRIPTION: Program Security Officers serve as multidisciplinary security specialists, and advisors, providing situational and program level end-to-end guidance and consultation in the following security disciplines: personnel, information, physical, industrial, and operational security. They routinely conduct specific and continuous programmatic security analyses evaluating the protec...",
@@ -2997,7 +2997,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c03f2cb5f8d2",
+    "_id": "64368df9891fc70d27a4394d",
     "jobNumber": "20230282",
     "jobTitle": "Aeronautical Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
@@ -3027,7 +3027,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c07670b5f8d4",
+    "_id": "64368df9891fc71e52a4394f",
     "jobNumber": "20230283",
     "jobTitle": "Aeronautical Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
@@ -3058,7 +3058,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c0b978b5f8d8",
+    "_id": "64368df9891fc7cdeaa43953",
     "jobNumber": "20230285",
     "jobTitle": "Systems Engineer (Software Lifecyle Engineer)",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -3587,7 +3587,7 @@
     "postedDate": "2023-03-20T00:00:00.000Z"
   },
   {
-    "_id": "643541293d60c070cbb5f8ce",
+    "_id": "64368df9891fc76cf4a43949",
     "jobNumber": "20230279",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -5028,7 +5028,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c04399b5f824",
+    "_id": "64368df9891fc74eeea4389f",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023....",
@@ -6471,7 +6471,7 @@
     "jobVisible": true
   },
   {
-    "_id": "643541293d60c0ac41b5f780",
+    "_id": "64368df9891fc747eaa437fb",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
