@@ -166,7 +166,7 @@
     "postedDate": "2023-04-11T00:00:00.000Z"
   },
   {
-    "_id": "64368df9891fc77049a4395f",
+    "_id": "6437df737af39d2467f81978",
     "jobNumber": "20230293",
     "jobTitle": "Cartographer (Maritime GIS Analyst)",
     "description": "ASSIGNMENT DESCRIPTION: Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specia...",
@@ -197,7 +197,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc72d85a43961",
+    "_id": "6437df737af39df52cf8197a",
     "jobNumber": "20230294",
     "jobTitle": "Cartographer (Maritime GIS Analyst)",
     "description": "ASSIGNMENT DESCRIPTION: Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specia...",
@@ -227,7 +227,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc7be9ea43963",
+    "_id": "6437df737af39da5a3f8197c",
     "jobNumber": "20230307",
     "jobTitle": "Photogrammetrist (Senior GEOINT Officer)",
     "description": "ASSIGNMENT DESCRIPTION: Photogrammetrists perform image assessment, point selection, mensuration, triangulation, orthorectification, dynamic range adjustments, and processing in order to produce image products. They increase the relative and absolute positioning accuracy of imagery from sensors to support mono and stereo exploitation. These analysts assess, evaluate, and extract elevation data fro...",
@@ -258,7 +258,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc7bcaca43965",
+    "_id": "6437df737af39dd2ecf8197e",
     "jobNumber": "20230308",
     "jobTitle": "Program and Business Administrator (Staffing Resource Officer)",
     "description": "ASSIGNMENT DESCRIPTION: Program and Business Administration Officers perform a wide range of specialized functions and tasks to support NGA operations and staff. They provide program management and oversight; research, develop, interpret, and implement policies; identify, justify, and manage resources; develop and disseminate data metrics; and manage budget allocation and execution. They collabora...",
@@ -288,7 +288,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc77b6ca43967",
+    "_id": "6437df737af39d40cdf81980",
     "jobNumber": "20230309",
     "jobTitle": "Imagery Production Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Imagery Production Specialists generate imagery products derived from digital and analog photographic systems. They operate high-volume precision and digital imagery production equipment/software. They manage aspects of imagery production, quality control, and/or chemical systems....",
@@ -318,7 +318,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc7bf61a4396b",
+    "_id": "6437df737af39d3069f81984",
     "jobNumber": "20230314",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -349,7 +349,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc70c65a4396d",
+    "_id": "6437df737af39d5a5df81986",
     "jobNumber": "20230316",
     "jobTitle": "Police Officer (Hiring Event)",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -379,7 +379,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc792dca4396f",
+    "_id": "6437df737af39d1345f81988",
     "jobNumber": "20230317",
     "jobTitle": "Police Officer (Hiring Event)",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -1405,7 +1405,7 @@
     "postedDate": "2023-04-03T00:00:00.000Z"
   },
   {
-    "_id": "64368df9891fc7da00a43955",
+    "_id": "6437df737af39d4a10f8196e",
     "jobNumber": "20230286",
     "jobTitle": "Analytic Methodologist (Wright-Patterson AFB, OH)",
     "description": "ASSIGNMENT DESCRIPTION: Analytic Methodologists provide expertise to define intelligence problems, decompose problems into workable tasks for analysts and data professionals, advise on best methods to accomplish those tasks, and develop and apply quantitative and qualitative techniques to enhance the analysis of complex national security issues. They employ knowledge of GEOINT analysis and intelli...",
@@ -1435,37 +1435,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc740f7a43957",
-    "jobNumber": "20230287",
-    "jobTitle": "Data Scientist",
-    "description": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create ins...",
-    "fullDescription": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create insights from data. They interpret diverse data sources, conduct data mining and retrieval, develop scripts and algorithms, and use a range of tools (e.g., coding languages, visualization software, GIS) to perform their work and communicate their findings. They translate intelligence or business problems into actionable data models and document and share repeatable studies, analysis, and products, as well as continually refine solutions. Data Scientists also manage data projects or teams, including collaborating with other data and IT subject matter experts to ensure the design and development of data-oriented products and services, such as data flow pipelines and applications.",
-    "jobWhoApply": "External Applicants Only",
-    "jobCoverLetter": "Applicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. The cover letter is recommended but is not required for employment consideration with the National Geospatial-Intelligence Agency. Applicants should place their narrative information in the Cover Letter / Other Professional Details field.",
-    "jobAdditionalInformation": "ADDITIONAL INFORMATION: NGA seeks a Data Scientist to work at Wright-Patterson Air Force Base, Dayton, Ohio to support the National Air and Space Intelligence Center (NASIC) and National Space Intelligence Center (NSIC) GEOINT requirements. The Data Scientist would join a team of data professionals to provide GEOINT analytic support to the NASIC and NSIC missions to discover and characterize air, space, counterspace, missile, and cyber threats to enable full-spectrum multi-domain operations, drive weapons system acquisition, and inform national defense policy.\n\nAdditional Application Requirement: You may be asked to complete one or more assessments in addition to the application you submit on this website as part of your application to NGA. These assessments may include but are not limited to: 1) Online questionnaires or assessments that require you to describe your job-related knowledge, skills, abilities, or other characteristics that are aligned with the mandatory and desirable qualifications of this job posting. The information you provide in the application you submit must support the response you provide to this questionnaire. You will receive an email to describe any additional assessments required. Please monitor your emails and complete any required assessments as soon as possible.\n\nThis position may be eligible for a RECRUITMENT INCENTIVE: selected candidates may be offered an incentive as part of the offer of employment. To receive the incentive, selected candidates must be eligible under 5 CFR Part 575, Subpart A, upon issuance of the Final Offer Letter. Changes in federal employment status prior to issuance of the Final Offer Letter may affect eligibility. To receive the incentive, selected candidates will be required to sign a service agreement to stay within the position at NGA for the agreed upon time. If the service agreement is terminated before its completion, the employee may be required to repay a pro rata share amount of the incentive to the government. Additional information regarding recruitment incentives for current federal employees can be found in DoDI 1400.25, Volume 2006.",
-    "jobHighlyDesiredSkills": "QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired: \r\n\r\n1. Experience in applying analytic techniques (classification, regression, clustering, data reduction, or causal modeling) to solve data problems.\n2. Familiarity with text analysis and natural language processing.\n3. Experience solving strategic challenges and implementing solutions.",
-    "jobAdditionalRequirements": "You must be able to obtain and retain a Top Secret security clearance with access to Sensitive Compartmented Information. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, and/or unescorted access to SCIFs.\r\n\r\nEmployees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, and/or unescorted access to SCIFs.",
-    "jobDCIPS": "NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process. Employees on term or temporary appointments are not eligible to apply for internal assignment opportunity notices. \r\n\r\nThis position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601.  DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility in your application.",
-    "jobHowEvaluated": "APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in three stages: \r\n\r\n1) All applicants will be evaluated using the Mandatory Qualification Criteria, \r\n2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, \r\n3) Best-qualified applicants may then be further evaluated through an interview process. \r\n\r\nMilitary retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01.  HD personnel will provide additional information if applicable.\r\n\r\nApplicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education information referenced in the announcement. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted.  \r\n\r\nIn accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or redetermined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300, at http://www.dtic.mil/whs/directives.)\r\n\r\nAll candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.\r\n\r\nNGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Persons with Disabilities (PWD) Program at PWDProgram@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.\r\n\r\nDisabled applicants are encouraged to apply directly to external job announcements in addition to the Resume Repository. NGA reserves the right to direct hire Disabled Veterans with 30%+ Comp in alignment with the NGA Hiring Strategy. By selecting this option on the application form and applying to the NGA Resume Repository, you may be considered for future direct hire against critical mission vacancies. Participation does not guarantee employment.",
-    "jobHowToApply": "Application submission involves applying using the Intelligence Community's Applicant Gateway on-line application process. \r\n\r\nONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.",
-    "jobQualifications": "MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online applications must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement: \r\n\r\n1. Demonstrated experience utilizing structured or unstructured data for exploratory data analysis, classification, regression, and/or other types of statistical analysis\n2. Demonstrated experience manipulating data using a programing language such as: Python, R, SQL, or similar.\n3. Demonstrated experience using data visualization (e.g., scripts, algorithms, predictive models, etc.) for exploratory comparative analysis utilizing visualization tools such as Tableau, ArcGIS Pro, or Python/R visualization packages\n\nEDUCATION REQUIREMENT: A. Education: Bachelor's degree from an accredited college or university in Mathematics, Data Science, Statistics, Computer Science, Geographic Information Science, Information Science, Informatics and Computing, or a related field that provided at least 6 semester hours in statistics and 9 additional semester hours in scientific or technical coursework such as engineering, medicine, physical, biological, or social sciences. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing. -OR- B. Combination of Education and Experience: A minimum of 30 semester hours (45 quarter hours) of courses equivalent to a major field of study in any area listed in Option A  plus experience that included programming for data science (e.g., Python, R) and a full range of professional statistical work such as: (a) intermediate and/or advanced statistics, (b) linear, semi-linear, and/or non-linear models, (c) working with a range of data types and statistical methods, or (d) data visualization capabilities. As a rule, every 30 semester (45 quarter) hours of coursework is equivalent to one year of experience. Candidates should show that their combination of education and experience totals 4 years.",
-    "jobNotes": "As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards. \r\n\r\n- U.S. Citizenship Required\r\n- Security Clearance (Top Secret/Sensitive Compartmented Information)\r\n- Polygraph Test Required\r\n- Position Subject to Drug Testing\r\n- Two Year Probationary Period\r\n- Direct Deposit Required",
-    "jobWorkSchedule": "PROMOTION OPPORTUNITY: Promotion opportunities allow applicants at all band levels to be considered.  Qualifications for NGA positions do not include specific time-in-band requirements.  NGA will emphasize quality of experience, rather than duration, and assess how the quality of the experience demonstrates possession of the knowledge, skills, abilities, and competencies necessary for successful job performance in the NGA occupational structure.\n\nBand 03: $71,533-$132,538\n\nPERMANENT CHANGE IN STATION: PCS expenses are not authorized.\n\nPay is only part of the compensation you will earn working for the Federal Government. We offer a broad array of benefits programs and family friendly flexibilities to meet the needs of you and your family. \n\nFor more information on the array of benefits programs, please visit https://www.intelligencecareers.gov/nga/ngabenefits.html",
-    "jobPositionSummary": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create insights from data. They interpret diverse data sources, conduct data mining and retrieval, develop scripts and algorithms, and use a range of tools (e.g., coding languages, visualization software, GIS) to perform their work and communicate their findings. They translate intelligence or business problems into actionable data models and document and share repeatable studies, analysis, and products, as well as continually refine solutions. Data Scientists also manage data projects or teams, including collaborating with other data and IT subject matter experts to ensure the design and development of data-oriented products and services, such as data flow pipelines and applications.",
-    "jobFamilyId": "100060",
-    "jobOpenDate": "2023-03-21T00:00:00.000Z",
-    "agency": "NGA",
-    "postedDate": "2023-04-03T00:00:00.000Z",
-    "jobCloseDate": "2023-04-15T00:00:00.000Z",
-    "jobFullTimePartTime": "No data",
-    "grade": "B3",
-    "jobPayPlan": "IA",
-    "location": "Wright-Patterson Afb, OH",
-    "jobFamily": "Math",
-    "jobVisible": true
-  },
-  {
-    "_id": "64368df9891fc79e10a43959",
+    "_id": "6437df737af39db037f81972",
     "jobNumber": "20230288",
     "jobTitle": "Data Steward",
     "description": "ASSIGNMENT DESCRIPTION: Data Stewards apply data management principles, governance guidelines, and understanding of data holdings to review, approve, and manage data in support of broad customer requirements for geospatial or organizational data. They facilitate effective data production and storage by aligning organizational processes (e.g., data sharing, metadata creation/maintenance) to governa...",
@@ -1495,7 +1465,37 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc77ec5a4395b",
+    "_id": "6437df737af39d699ef81970",
+    "jobNumber": "20230287",
+    "jobTitle": "Data Scientist",
+    "description": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create ins...",
+    "fullDescription": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create insights from data. They interpret diverse data sources, conduct data mining and retrieval, develop scripts and algorithms, and use a range of tools (e.g., coding languages, visualization software, GIS) to perform their work and communicate their findings. They translate intelligence or business problems into actionable data models and document and share repeatable studies, analysis, and products, as well as continually refine solutions. Data Scientists also manage data projects or teams, including collaborating with other data and IT subject matter experts to ensure the design and development of data-oriented products and services, such as data flow pipelines and applications.",
+    "jobWhoApply": "External Applicants Only",
+    "jobCoverLetter": "Applicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. The cover letter is recommended but is not required for employment consideration with the National Geospatial-Intelligence Agency. Applicants should place their narrative information in the Cover Letter / Other Professional Details field.",
+    "jobAdditionalInformation": "ADDITIONAL INFORMATION: NGA seeks a Data Scientist to work at Wright-Patterson Air Force Base, Dayton, Ohio to support the National Air and Space Intelligence Center (NASIC) and National Space Intelligence Center (NSIC) GEOINT requirements. The Data Scientist would join a team of data professionals to provide GEOINT analytic support to the NASIC and NSIC missions to discover and characterize air, space, counterspace, missile, and cyber threats to enable full-spectrum multi-domain operations, drive weapons system acquisition, and inform national defense policy.\n\nAdditional Application Requirement: You may be asked to complete one or more assessments in addition to the application you submit on this website as part of your application to NGA. These assessments may include but are not limited to: 1) Online questionnaires or assessments that require you to describe your job-related knowledge, skills, abilities, or other characteristics that are aligned with the mandatory and desirable qualifications of this job posting. The information you provide in the application you submit must support the response you provide to this questionnaire. You will receive an email to describe any additional assessments required. Please monitor your emails and complete any required assessments as soon as possible.\n\nThis position may be eligible for a RECRUITMENT INCENTIVE: selected candidates may be offered an incentive as part of the offer of employment. To receive the incentive, selected candidates must be eligible under 5 CFR Part 575, Subpart A, upon issuance of the Final Offer Letter. Changes in federal employment status prior to issuance of the Final Offer Letter may affect eligibility. To receive the incentive, selected candidates will be required to sign a service agreement to stay within the position at NGA for the agreed upon time. If the service agreement is terminated before its completion, the employee may be required to repay a pro rata share amount of the incentive to the government. Additional information regarding recruitment incentives for current federal employees can be found in DoDI 1400.25, Volume 2006.",
+    "jobHighlyDesiredSkills": "QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired: \r\n\r\n1. Experience in applying analytic techniques (classification, regression, clustering, data reduction, or causal modeling) to solve data problems.\n2. Familiarity with text analysis and natural language processing.\n3. Experience solving strategic challenges and implementing solutions.",
+    "jobAdditionalRequirements": "You must be able to obtain and retain a Top Secret security clearance with access to Sensitive Compartmented Information. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, and/or unescorted access to SCIFs.\r\n\r\nEmployees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, and/or unescorted access to SCIFs.",
+    "jobDCIPS": "NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process. Employees on term or temporary appointments are not eligible to apply for internal assignment opportunity notices. \r\n\r\nThis position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601.  DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility in your application.",
+    "jobHowEvaluated": "APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in three stages: \r\n\r\n1) All applicants will be evaluated using the Mandatory Qualification Criteria, \r\n2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, \r\n3) Best-qualified applicants may then be further evaluated through an interview process. \r\n\r\nMilitary retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01.  HD personnel will provide additional information if applicable.\r\n\r\nApplicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education information referenced in the announcement. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted.  \r\n\r\nIn accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or redetermined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300, at http://www.dtic.mil/whs/directives.)\r\n\r\nAll candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.\r\n\r\nNGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Persons with Disabilities (PWD) Program at PWDProgram@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.\r\n\r\nDisabled applicants are encouraged to apply directly to external job announcements in addition to the Resume Repository. NGA reserves the right to direct hire Disabled Veterans with 30%+ Comp in alignment with the NGA Hiring Strategy. By selecting this option on the application form and applying to the NGA Resume Repository, you may be considered for future direct hire against critical mission vacancies. Participation does not guarantee employment.",
+    "jobHowToApply": "Application submission involves applying using the Intelligence Community's Applicant Gateway on-line application process. \r\n\r\nONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.",
+    "jobQualifications": "MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online applications must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement: \r\n\r\n1. Demonstrated experience utilizing structured or unstructured data for exploratory data analysis, classification, regression, and/or other types of statistical analysis\n2. Demonstrated experience manipulating data using a programing language such as: Python, R, SQL, or similar.\n3. Demonstrated experience using data visualization (e.g., scripts, algorithms, predictive models, etc.) for exploratory comparative analysis utilizing visualization tools such as Tableau, ArcGIS Pro, or Python/R visualization packages\n\nEDUCATION REQUIREMENT: A. Education: Bachelor's degree from an accredited college or university in Mathematics, Data Science, Statistics, Computer Science, Geographic Information Science, Information Science, Informatics and Computing, or a related field that provided at least 6 semester hours in statistics and 9 additional semester hours in scientific or technical coursework such as engineering, medicine, physical, biological, or social sciences. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing. -OR- B. Combination of Education and Experience: A minimum of 30 semester hours (45 quarter hours) of courses equivalent to a major field of study in any area listed in Option A  plus experience that included programming for data science (e.g., Python, R) and a full range of professional statistical work such as: (a) intermediate and/or advanced statistics, (b) linear, semi-linear, and/or non-linear models, (c) working with a range of data types and statistical methods, or (d) data visualization capabilities. As a rule, every 30 semester (45 quarter) hours of coursework is equivalent to one year of experience. Candidates should show that their combination of education and experience totals 4 years.",
+    "jobNotes": "As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards. \r\n\r\n- U.S. Citizenship Required\r\n- Security Clearance (Top Secret/Sensitive Compartmented Information)\r\n- Polygraph Test Required\r\n- Position Subject to Drug Testing\r\n- Two Year Probationary Period\r\n- Direct Deposit Required",
+    "jobWorkSchedule": "PROMOTION OPPORTUNITY: Promotion opportunities allow applicants at all band levels to be considered.  Qualifications for NGA positions do not include specific time-in-band requirements.  NGA will emphasize quality of experience, rather than duration, and assess how the quality of the experience demonstrates possession of the knowledge, skills, abilities, and competencies necessary for successful job performance in the NGA occupational structure.\n\nBand 03: $71,533-$132,538\n\nPERMANENT CHANGE IN STATION: PCS expenses are not authorized.\n\nPay is only part of the compensation you will earn working for the Federal Government. We offer a broad array of benefits programs and family friendly flexibilities to meet the needs of you and your family. \n\nFor more information on the array of benefits programs, please visit https://www.intelligencecareers.gov/nga/ngabenefits.html",
+    "jobPositionSummary": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create insights from data. They interpret diverse data sources, conduct data mining and retrieval, develop scripts and algorithms, and use a range of tools (e.g., coding languages, visualization software, GIS) to perform their work and communicate their findings. They translate intelligence or business problems into actionable data models and document and share repeatable studies, analysis, and products, as well as continually refine solutions. Data Scientists also manage data projects or teams, including collaborating with other data and IT subject matter experts to ensure the design and development of data-oriented products and services, such as data flow pipelines and applications.",
+    "jobFamilyId": "100060",
+    "jobOpenDate": "2023-03-21T00:00:00.000Z",
+    "agency": "NGA",
+    "postedDate": "2023-04-03T00:00:00.000Z",
+    "jobCloseDate": "2023-04-15T00:00:00.000Z",
+    "jobFullTimePartTime": "No data",
+    "grade": "B3",
+    "jobPayPlan": "IA",
+    "location": "Wright-Patterson Afb, OH",
+    "jobFamily": "Math",
+    "jobVisible": true
+  },
+  {
+    "_id": "6437df737af39d788df81974",
     "jobNumber": "20230290",
     "jobTitle": "Multimedia Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Multimedia Specialists design, produce, and finish interactive products. They apply understanding of a range of software applications (e.g., interactive authoring, graphic design, animation) and programming languages to integrate graphics with text and audio. They apply user interface design principles to presentation products to create a positive user experience. Activitie...",
@@ -1525,7 +1525,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc76964a4395d",
+    "_id": "6437df737af39d2f31f81976",
     "jobNumber": "20230291",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -2884,7 +2884,7 @@
     "postedDate": "2023-03-29T00:00:00.000Z"
   },
   {
-    "_id": "64368df9891fc779b5a43969",
+    "_id": "6437df737af39d0e12f81982",
     "jobNumber": "20230310",
     "jobTitle": "Program Security Officer (Ops Support Spc)",
     "description": "ASSIGNMENT DESCRIPTION: Program Security Officers serve as multidisciplinary security specialists, and advisors, providing situational and program level end-to-end guidance and consultation in the following security disciplines: personnel, information, physical, industrial, and operational security. They routinely conduct specific and continuous programmatic security analyses evaluating the protec...",
@@ -2914,7 +2914,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc70d27a4394d",
+    "_id": "6437df737af39da023f81966",
     "jobNumber": "20230282",
     "jobTitle": "Aeronautical Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
@@ -2935,7 +2935,7 @@
     "jobOpenDate": "2023-03-18T00:00:00.000Z",
     "agency": "NGA",
     "postedDate": "2023-03-27T00:00:00.000Z",
-    "jobCloseDate": "2023-04-22T00:00:00.000Z",
+    "jobCloseDate": "2023-04-29T00:00:00.000Z",
     "jobFullTimePartTime": "No data",
     "grade": "B3",
     "jobPayPlan": "IA",
@@ -2944,7 +2944,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc71e52a4394f",
+    "_id": "6437df737af39d8ee3f81968",
     "jobNumber": "20230283",
     "jobTitle": "Aeronautical Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
@@ -2966,7 +2966,7 @@
     "jobOpenDate": "2023-03-18T00:00:00.000Z",
     "agency": "NGA",
     "postedDate": "2023-03-27T00:00:00.000Z",
-    "jobCloseDate": "2023-04-22T00:00:00.000Z",
+    "jobCloseDate": "2023-04-29T00:00:00.000Z",
     "jobFullTimePartTime": "No data",
     "grade": "B2",
     "jobPayPlan": "IA",
@@ -2975,7 +2975,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc7cdeaa43953",
+    "_id": "6437df737af39d490df8196c",
     "jobNumber": "20230285",
     "jobTitle": "Systems Engineer (Software Lifecyle Engineer)",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -3421,7 +3421,7 @@
     "postedDate": "2023-03-20T00:00:00.000Z"
   },
   {
-    "_id": "64368df9891fc76cf4a43949",
+    "_id": "6437df737af39d0a68f81962",
     "jobNumber": "20230279",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -4779,7 +4779,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc74eeea4389f",
+    "_id": "6437df737af39d4335f818b8",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023....",
@@ -6222,7 +6222,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64368df9891fc747eaa437fb",
+    "_id": "6437df737af39dbabff81814",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
