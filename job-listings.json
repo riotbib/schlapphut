@@ -249,7 +249,7 @@
     "postedDate": "2023-04-11T00:00:00.000Z"
   },
   {
-    "_id": "64393f00ee19874040e2e36d",
+    "_id": "64398a7d41e4de638ee56ec2",
     "jobNumber": "20230293",
     "jobTitle": "Cartographer (Maritime GIS Analyst)",
     "description": "ASSIGNMENT DESCRIPTION: Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specia...",
@@ -280,7 +280,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19879aa8e2e36f",
+    "_id": "64398a7d41e4ded825e56ec4",
     "jobNumber": "20230294",
     "jobTitle": "Cartographer (Maritime GIS Analyst)",
     "description": "ASSIGNMENT DESCRIPTION: Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specia...",
@@ -310,7 +310,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19874c46e2e371",
+    "_id": "64398a7d41e4de19c4e56ec6",
     "jobNumber": "20230307",
     "jobTitle": "Photogrammetrist (Senior GEOINT Officer)",
     "description": "ASSIGNMENT DESCRIPTION: Photogrammetrists perform image assessment, point selection, mensuration, triangulation, orthorectification, dynamic range adjustments, and processing in order to produce image products. They increase the relative and absolute positioning accuracy of imagery from sensors to support mono and stereo exploitation. These analysts assess, evaluate, and extract elevation data fro...",
@@ -341,7 +341,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee198767c1e2e373",
+    "_id": "64398a7d41e4de6d28e56ec8",
     "jobNumber": "20230308",
     "jobTitle": "Program and Business Administrator (Staffing Resource Officer)",
     "description": "ASSIGNMENT DESCRIPTION: Program and Business Administration Officers perform a wide range of specialized functions and tasks to support NGA operations and staff. They provide program management and oversight; research, develop, interpret, and implement policies; identify, justify, and manage resources; develop and disseminate data metrics; and manage budget allocation and execution. They collabora...",
@@ -371,7 +371,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19874217e2e375",
+    "_id": "64398a7d41e4ded4cae56eca",
     "jobNumber": "20230309",
     "jobTitle": "Imagery Production Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Imagery Production Specialists generate imagery products derived from digital and analog photographic systems. They operate high-volume precision and digital imagery production equipment/software. They manage aspects of imagery production, quality control, and/or chemical systems....",
@@ -401,7 +401,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee1987859ce2e37d",
+    "_id": "64398a7d41e4def9fde56ed2",
     "jobNumber": "20230314",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -432,7 +432,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19876f12e2e381",
+    "_id": "64398a7d41e4deae3ce56ed6",
     "jobNumber": "20230316",
     "jobTitle": "Police Officer (Hiring Event)",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -462,7 +462,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee1987bb23e2e383",
+    "_id": "64398a7d41e4de51d5e56ed8",
     "jobNumber": "20230317",
     "jobTitle": "Police Officer (Hiring Event)",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -1488,7 +1488,7 @@
     "postedDate": "2023-04-03T00:00:00.000Z"
   },
   {
-    "_id": "64393f00ee198783b7e2e35f",
+    "_id": "64398a7d41e4deddeae56eb4",
     "jobNumber": "20230286",
     "jobTitle": "Analytic Methodologist (Wright-Patterson AFB, OH)",
     "description": "ASSIGNMENT DESCRIPTION: Analytic Methodologists provide expertise to define intelligence problems, decompose problems into workable tasks for analysts and data professionals, advise on best methods to accomplish those tasks, and develop and apply quantitative and qualitative techniques to enhance the analysis of complex national security issues. They employ knowledge of GEOINT analysis and intelli...",
@@ -1518,7 +1518,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19870678e2e361",
+    "_id": "64398a7d41e4de77c8e56eb6",
     "jobNumber": "20230287",
     "jobTitle": "Data Scientist",
     "description": "ASSIGNMENT DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products and services. They apply advanced mathematical, statistical, and scientific techniques and principles (e.g., probabilistic modeling, machine learning, computer vision, natural language processing) to examine complex problems and create ins...",
@@ -1548,7 +1548,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee1987f910e2e363",
+    "_id": "64398a7d41e4dee76de56eb8",
     "jobNumber": "20230288",
     "jobTitle": "Data Steward",
     "description": "ASSIGNMENT DESCRIPTION: Data Stewards apply data management principles, governance guidelines, and understanding of data holdings to review, approve, and manage data in support of broad customer requirements for geospatial or organizational data. They facilitate effective data production and storage by aligning organizational processes (e.g., data sharing, metadata creation/maintenance) to governa...",
@@ -1578,7 +1578,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee198754a0e2e367",
+    "_id": "64398a7d41e4de5f01e56ebc",
     "jobNumber": "20230290",
     "jobTitle": "Multimedia Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Multimedia Specialists design, produce, and finish interactive products. They apply understanding of a range of software applications (e.g., interactive authoring, graphic design, animation) and programming languages to integrate graphics with text and audio. They apply user interface design principles to presentation products to create a positive user experience. Activitie...",
@@ -1608,7 +1608,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19870765e2e369",
+    "_id": "64398a7d41e4de88b3e56ebe",
     "jobNumber": "20230291",
     "jobTitle": "Police Officer",
     "description": "ASSIGNMENT DESCRIPTION: Police Officers ensure compliance with Federal laws and Agency rules and regulations pertaining to law enforcement work. They maintain law and order; protect civil rights; carry firearms; provide assistance in emergency situations; investigate criminal activity and misconduct; and safeguard NGA personnel and assets. They also conduct patrols; prevent and detect violations; ...",
@@ -2801,7 +2801,7 @@
     "postedDate": "2023-03-29T00:00:00.000Z"
   },
   {
-    "_id": "64393f00ee19873f20e2e377",
+    "_id": "64398a7d41e4de7e64e56ecc",
     "jobNumber": "20230310",
     "jobTitle": "Program Security Officer (Ops Support Spc)",
     "description": "ASSIGNMENT DESCRIPTION: Program Security Officers serve as multidisciplinary security specialists, and advisors, providing situational and program level end-to-end guidance and consultation in the following security disciplines: personnel, information, physical, industrial, and operational security. They routinely conduct specific and continuous programmatic security analyses evaluating the protec...",
@@ -2831,37 +2831,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19874fd5e2e357",
-    "jobNumber": "20230282",
-    "jobTitle": "Aeronautical Analyst",
-    "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
-    "fullDescription": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to ensure the quality, accuracy, and currency of data and products.",
-    "jobWhoApply": "External Applicants Only",
-    "jobCoverLetter": "Applicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. The cover letter is recommended but is not required for employment consideration with the National Geospatial-Intelligence Agency. Applicants should place their narrative information in the Cover Letter / Other Professional Details field.",
-    "jobAdditionalInformation": "ADDITIONAL INFORMATION: The National Geospatial-Intelligence Agency (NGA) serves as the world leader in providing timely, relevant, accurate and actionable geospatial intelligence (GEOINT). NGA's civilian, military and contract personnel evaluate imagery, maps, charts, multiple layers of foundation data - such as safety of navigation, terrain, elevation and gravity - to help users visualize what is happening at a particular place and time. NGA uses a flexible, high mobility career model. Individuals are hired for their overall skills within a specialty such as Aeronautical Analyst, then placed in a related position upon completing the clearance process. Aspects of the job such as travel, supervisory, telework, etc. may change, depending on specific positions available at that time. It is also possible that applicants could be hired into a position with specific aspects and then change positions after serving for a period of time in that assignment. Applicants who have completed the clearance process receive final documentation about the nature of the specific position before they make the final commitment to join NGA.\n\nAdditional Application Requirement: You may be asked to complete one or more assessments in addition to the application you submit on this website as part of your application to NGA. These assessments may include but are not limited to: 1) Online questionnaires or assessments that require you to describe your job-related knowledge, skills, abilities, or other characteristics that are aligned with the mandatory and desirable qualifications of this job posting. The information you provide in the application you submit must support the response you provide to this questionnaire. You will receive an email to describe any additional assessments required. Please monitor your emails and complete any required assessments as soon as possible.",
-    "jobHighlyDesiredSkills": "QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired: \r\n\r\n1. Demonstrated expertise in the utilization of Department of Defense (DoD) suite of aeronautical navigational products and data.\n2. Demonstrated experience analyzing and resolving complex problems within the field of aviation.\n3. Demonstrated knowledge of analytical methodologies and/or techniques relating to aeronautical sources, data or imagery.\n4. Demonstrated experience with applying certification standards to ensure quality, accuracy, and currency of data. \n5. Knowledge of database operations, maintenance, building and coding, especially PostGres; database scripting and programming (Use of Python and SQL); cloud based technology and methodology. \n6. Ability to communicate ongoing work to peers and leadership through written, visual, spoken reports and briefings.",
-    "jobAdditionalRequirements": "You must be able to obtain and retain a Top Secret security clearance with access to Sensitive Compartmented Information. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, and/or unescorted access to SCIFs.\r\n\r\nEmployees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, and/or unescorted access to SCIFs.",
-    "jobDCIPS": "NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process. Employees on term or temporary appointments are not eligible to apply for internal assignment opportunity notices. \r\n\r\nThis position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601.  DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility in your application.",
-    "jobHowEvaluated": "APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in three stages: \r\n\r\n1) All applicants will be evaluated using the Mandatory Qualification Criteria, \r\n2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, \r\n3) Best-qualified applicants may then be further evaluated through an interview process. \r\n\r\nMilitary retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01.  HD personnel will provide additional information if applicable.\r\n\r\nApplicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education information referenced in the announcement. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted.  \r\n\r\nIn accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or redetermined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300, at http://www.dtic.mil/whs/directives.)\r\n\r\nAll candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.\r\n\r\nNGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Persons with Disabilities (PWD) Program at PWDProgram@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.\r\n\r\nDisabled applicants are encouraged to apply directly to external job announcements in addition to the Resume Repository. NGA reserves the right to direct hire Disabled Veterans with 30%+ Comp in alignment with the NGA Hiring Strategy. By selecting this option on the application form and applying to the NGA Resume Repository, you may be considered for future direct hire against critical mission vacancies. Participation does not guarantee employment.",
-    "jobHowToApply": "Application submission involves applying using the Intelligence Community's Applicant Gateway on-line application process. \r\n\r\nONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.",
-    "jobQualifications": "MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online applications must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement: \r\n\r\n1. Demonstrated experience applying operational aviation knowledge and skills, which require an understanding of air navigation principles; publications; airspace, and/or airfield infrastructure and operating procedures.\n2. Demonstrated experience making sound decisions even with limited data or uncertain consequences.\n3. Demonstrated ability to organize and utilize time and resources efficiently and effectively, to achieve desired results, consistent with organizational objectives.\n\nEDUCATION REQUIREMENT: A. Education: Bachelor's degree in Aeronautical Science, Commercial Aviation, Flight Science/Education, Air Traffic Control (ATC), Air Traffic Management, Unmanned Aircraft Systems, or other related degrees that includes actual or simulated aeronautical experience mandated with the curriculum along with a thorough knowledge of domestic and international air navigation principles as well as airspace, air infrastructure, and flight operations. -OR- B. Combination of Education and Experience: A minimum of 30 semester (45 quarter) hours of completed coursework in Aeronautics, Aerospace Engineering, Aerospace Studies, Geospatial Information Systems, Global Security and Intelligence, Cartography, Homeland Security, or other areas related to aeronautical navigation and operations plus a minimum of 250 hours of flight experience as a pilot, co-pilot, navigator, or flight instructor -OR- a minimum of 3 years of civilian or military work expertise as an air traffic controller, flight dispatcher, flight or ground school instructor, mission planner, Aeronautical Information Specialist, Terminal Enroute Procedural Specialist (TERPS), or other field which provided an understanding of air navigation principles, operations, publications, airspace, and/or airfield infrastructure. -OR- C. Experience: A minimum of 6 years of work experience within an analytical occupation that involved the acquisition , collection, analysis and evaluation, extraction and population, and maintenance of Geospatial or Safety of Navigation related databases -OR- hold an FAA credential in an Aeronautical work role involved in the acquisition, collection, analysis and evaluation, extraction and population, and maintenance of Geospatial or Safety of Navigation related databases.\n\nPHYSICAL REQUIREMENT: Distinguish principal colors; Stereopsis ability required for assignments that require the use of stereo imagery; Near visual acuity of 20/60 or better with or without corrective lenses",
-    "jobNotes": "As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards. \r\n\r\n- U.S. Citizenship Required\r\n- Security Clearance (Top Secret/Sensitive Compartmented Information)\r\n- Polygraph Test Required\r\n- Position Subject to Drug Testing\r\n- Two Year Probationary Period\r\n- Direct Deposit Required",
-    "jobWorkSchedule": "PROMOTION OPPORTUNITY: Promotion opportunities allow applicants at all band levels to be considered.  Qualifications for NGA positions do not include specific time-in-band requirements.  NGA will emphasize quality of experience, rather than duration, and assess how the quality of the experience demonstrates possession of the knowledge, skills, abilities, and competencies necessary for successful job performance in the NGA occupational structure.\n\n\nBand 03   $70,649 - $130,900\n\n\nPERMANENT CHANGE IN STATION: PCS expenses are not authorized.\n\nPay is only part of the compensation you will earn working for the Federal Government. We offer a broad array of benefits programs and family friendly flexibilities to meet the needs of you and your family. \n\nFor more information on the array of benefits programs, please visit https://www.intelligencecareers.gov/nga/ngabenefits.html",
-    "jobPositionSummary": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to ensure the quality, accuracy, and currency of data and products.",
-    "jobFamilyId": "100010",
-    "jobOpenDate": "2023-03-18T00:00:00.000Z",
-    "agency": "NGA",
-    "postedDate": "2023-03-27T00:00:00.000Z",
-    "jobCloseDate": "2023-04-29T00:00:00.000Z",
-    "jobFullTimePartTime": "No data",
-    "grade": "B3",
-    "jobPayPlan": "IA",
-    "location": "St Louis, MO",
-    "jobFamily": "Intelligence Analysis",
-    "jobVisible": true
-  },
-  {
-    "_id": "64393f00ee19876fdbe2e359",
+    "_id": "64398a7d41e4de7620e56eae",
     "jobNumber": "20230283",
     "jobTitle": "Aeronautical Analyst",
     "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
@@ -2892,7 +2862,37 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee1987049ae2e35d",
+    "_id": "64398a7d41e4de392ae56eac",
+    "jobNumber": "20230282",
+    "jobTitle": "Aeronautical Analyst",
+    "description": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to en...",
+    "fullDescription": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to ensure the quality, accuracy, and currency of data and products.",
+    "jobWhoApply": "External Applicants Only",
+    "jobCoverLetter": "Applicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. The cover letter is recommended but is not required for employment consideration with the National Geospatial-Intelligence Agency. Applicants should place their narrative information in the Cover Letter / Other Professional Details field.",
+    "jobAdditionalInformation": "ADDITIONAL INFORMATION: The National Geospatial-Intelligence Agency (NGA) serves as the world leader in providing timely, relevant, accurate and actionable geospatial intelligence (GEOINT). NGA's civilian, military and contract personnel evaluate imagery, maps, charts, multiple layers of foundation data - such as safety of navigation, terrain, elevation and gravity - to help users visualize what is happening at a particular place and time. NGA uses a flexible, high mobility career model. Individuals are hired for their overall skills within a specialty such as Aeronautical Analyst, then placed in a related position upon completing the clearance process. Aspects of the job such as travel, supervisory, telework, etc. may change, depending on specific positions available at that time. It is also possible that applicants could be hired into a position with specific aspects and then change positions after serving for a period of time in that assignment. Applicants who have completed the clearance process receive final documentation about the nature of the specific position before they make the final commitment to join NGA.\n\nAdditional Application Requirement: You may be asked to complete one or more assessments in addition to the application you submit on this website as part of your application to NGA. These assessments may include but are not limited to: 1) Online questionnaires or assessments that require you to describe your job-related knowledge, skills, abilities, or other characteristics that are aligned with the mandatory and desirable qualifications of this job posting. The information you provide in the application you submit must support the response you provide to this questionnaire. You will receive an email to describe any additional assessments required. Please monitor your emails and complete any required assessments as soon as possible.",
+    "jobHighlyDesiredSkills": "QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired: \r\n\r\n1. Demonstrated expertise in the utilization of Department of Defense (DoD) suite of aeronautical navigational products and data.\n2. Demonstrated experience analyzing and resolving complex problems within the field of aviation.\n3. Demonstrated knowledge of analytical methodologies and/or techniques relating to aeronautical sources, data or imagery.\n4. Demonstrated experience with applying certification standards to ensure quality, accuracy, and currency of data. \n5. Knowledge of database operations, maintenance, building and coding, especially PostGres; database scripting and programming (Use of Python and SQL); cloud based technology and methodology. \n6. Ability to communicate ongoing work to peers and leadership through written, visual, spoken reports and briefings.",
+    "jobAdditionalRequirements": "You must be able to obtain and retain a Top Secret security clearance with access to Sensitive Compartmented Information. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, and/or unescorted access to SCIFs.\r\n\r\nEmployees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, and/or unescorted access to SCIFs.",
+    "jobDCIPS": "NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process. Employees on term or temporary appointments are not eligible to apply for internal assignment opportunity notices. \r\n\r\nThis position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601.  DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility in your application.",
+    "jobHowEvaluated": "APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in three stages: \r\n\r\n1) All applicants will be evaluated using the Mandatory Qualification Criteria, \r\n2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, \r\n3) Best-qualified applicants may then be further evaluated through an interview process. \r\n\r\nMilitary retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01.  HD personnel will provide additional information if applicable.\r\n\r\nApplicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education information referenced in the announcement. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted.  \r\n\r\nIn accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or redetermined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300, at http://www.dtic.mil/whs/directives.)\r\n\r\nAll candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.\r\n\r\nNGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Persons with Disabilities (PWD) Program at PWDProgram@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.\r\n\r\nDisabled applicants are encouraged to apply directly to external job announcements in addition to the Resume Repository. NGA reserves the right to direct hire Disabled Veterans with 30%+ Comp in alignment with the NGA Hiring Strategy. By selecting this option on the application form and applying to the NGA Resume Repository, you may be considered for future direct hire against critical mission vacancies. Participation does not guarantee employment.",
+    "jobHowToApply": "Application submission involves applying using the Intelligence Community's Applicant Gateway on-line application process. \r\n\r\nONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.",
+    "jobQualifications": "MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online applications must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement: \r\n\r\n1. Demonstrated experience applying operational aviation knowledge and skills, which require an understanding of air navigation principles; publications; airspace, and/or airfield infrastructure and operating procedures.\n2. Demonstrated experience making sound decisions even with limited data or uncertain consequences.\n3. Demonstrated ability to organize and utilize time and resources efficiently and effectively, to achieve desired results, consistent with organizational objectives.\n\nEDUCATION REQUIREMENT: A. Education: Bachelor's degree in Aeronautical Science, Commercial Aviation, Flight Science/Education, Air Traffic Control (ATC), Air Traffic Management, Unmanned Aircraft Systems, or other related degrees that includes actual or simulated aeronautical experience mandated with the curriculum along with a thorough knowledge of domestic and international air navigation principles as well as airspace, air infrastructure, and flight operations. -OR- B. Combination of Education and Experience: A minimum of 30 semester (45 quarter) hours of completed coursework in Aeronautics, Aerospace Engineering, Aerospace Studies, Geospatial Information Systems, Global Security and Intelligence, Cartography, Homeland Security, or other areas related to aeronautical navigation and operations plus a minimum of 250 hours of flight experience as a pilot, co-pilot, navigator, or flight instructor -OR- a minimum of 3 years of civilian or military work expertise as an air traffic controller, flight dispatcher, flight or ground school instructor, mission planner, Aeronautical Information Specialist, Terminal Enroute Procedural Specialist (TERPS), or other field which provided an understanding of air navigation principles, operations, publications, airspace, and/or airfield infrastructure. -OR- C. Experience: A minimum of 6 years of work experience within an analytical occupation that involved the acquisition , collection, analysis and evaluation, extraction and population, and maintenance of Geospatial or Safety of Navigation related databases -OR- hold an FAA credential in an Aeronautical work role involved in the acquisition, collection, analysis and evaluation, extraction and population, and maintenance of Geospatial or Safety of Navigation related databases.\n\nPHYSICAL REQUIREMENT: Distinguish principal colors; Stereopsis ability required for assignments that require the use of stereo imagery; Near visual acuity of 20/60 or better with or without corrective lenses",
+    "jobNotes": "As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards. \r\n\r\n- U.S. Citizenship Required\r\n- Security Clearance (Top Secret/Sensitive Compartmented Information)\r\n- Polygraph Test Required\r\n- Position Subject to Drug Testing\r\n- Two Year Probationary Period\r\n- Direct Deposit Required",
+    "jobWorkSchedule": "PROMOTION OPPORTUNITY: Promotion opportunities allow applicants at all band levels to be considered.  Qualifications for NGA positions do not include specific time-in-band requirements.  NGA will emphasize quality of experience, rather than duration, and assess how the quality of the experience demonstrates possession of the knowledge, skills, abilities, and competencies necessary for successful job performance in the NGA occupational structure.\n\n\nBand 03   $70,649 - $130,900\n\n\nPERMANENT CHANGE IN STATION: PCS expenses are not authorized.\n\nPay is only part of the compensation you will earn working for the Federal Government. We offer a broad array of benefits programs and family friendly flexibilities to meet the needs of you and your family. \n\nFor more information on the array of benefits programs, please visit https://www.intelligencecareers.gov/nga/ngabenefits.html",
+    "jobPositionSummary": "ASSIGNMENT DESCRIPTION: Aeronautical Analysts analyze and exploit worldwide aeronautical source and imagery in support of safety of navigation and national intelligence goals and requirements. They collaborate with partners and co-producers to ensure that databases and products contain current navigation and intelligence information. These analysts apply international certification standards to ensure the quality, accuracy, and currency of data and products.",
+    "jobFamilyId": "100010",
+    "jobOpenDate": "2023-03-18T00:00:00.000Z",
+    "agency": "NGA",
+    "postedDate": "2023-03-27T00:00:00.000Z",
+    "jobCloseDate": "2023-04-29T00:00:00.000Z",
+    "jobFullTimePartTime": "No data",
+    "grade": "B3",
+    "jobPayPlan": "IA",
+    "location": "St Louis, MO",
+    "jobFamily": "Intelligence Analysis",
+    "jobVisible": true
+  },
+  {
+    "_id": "64398a7d41e4def50ee56eb2",
     "jobNumber": "20230285",
     "jobTitle": "Systems Engineer (Software Lifecyle Engineer)",
     "description": "ASSIGNMENT DESCRIPTION: Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and va...",
@@ -3338,7 +3338,7 @@
     "postedDate": "2023-03-20T00:00:00.000Z"
   },
   {
-    "_id": "64393f00ee1987d415e2e353",
+    "_id": "64398a7d41e4de0fece56ea8",
     "jobNumber": "20230279",
     "jobTitle": "Contract Specialist",
     "description": "ASSIGNMENT DESCRIPTION: Contract Specialists plan and manage acquisitions to procure a variety of products and services for NGA. They interact with customers to develop and implement an acquisition strategy, solicit and evaluate proposals, and negotiate and award contracts. They also administer contracts, including monitoring contractor performance, preparing modifications, resolving problems, and...",
@@ -4779,7 +4779,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee1987a1e0e2e2a9",
+    "_id": "64398a7d41e4de7af3e56dfe",
     "jobNumber": "20230138",
     "jobTitle": "Permanent Appointment (Student Programs Admin Resume Repository)",
     "description": "ASSIGNMENT DESCRIPTION WHO MAY APPLY:  Current Students who will graduate from an accredited college or university by 30 September 2023, AND who have completed a minimum of 320 hours of internship with NGA, by the graduation date of 30 September 2023....",
@@ -6222,7 +6222,7 @@
     "jobVisible": true
   },
   {
-    "_id": "64393f00ee19874c3ee2e205",
+    "_id": "64398a7d41e4deba85e56d5a",
     "jobNumber": "20230005",
     "jobTitle": "2023 Resume Repository",
     "description": "ASSIGNMENT DESCRIPTION: Recruitment (ONLY) related Job Code allowing the ability to intake...",
